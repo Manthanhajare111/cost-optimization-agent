@@ -133,11 +133,9 @@ tr.clickable:hover { background: var(--sapList_Hover_Background); }
 .add-data-page .upload-zone h3, .add-data-page .upload-zone p { margin: 0; }
 .add-data-page .upload-zone h3 { color: var(--sapTitleColor); font-size: var(--sapFontHeader4Size); }
 .add-data-page .upload-zone small { color: var(--sapContent_LabelColor); }
-.add-data-page .upload-template-action { justify-self: start; }
-.add-data-page .support-card > ui5-icon { width: 28px; height: 28px; color: var(--sapBrandColor); }
-.add-data-page .support-card h2 { font-size: var(--sapFontHeader4Size); }
-.add-data-page .support-card { align-content: start; gap: var(--space-3); }
-.add-data-page .support-card ui5-button { justify-self: start; }
+.add-data-page .upload-template-action { justify-self: start; min-height: 36px; }
+.add-data-page .sample-info-action { display: flex; align-items: center; gap: var(--space-2); min-height: 36px; color: var(--sapContent_LabelColor); font-size: var(--sapFontSmallSize); }
+.add-data-page .sample-info-action ui5-icon { width: 16px; height: 16px; color: var(--sapInformativeColor); flex-shrink: 0; }
 .add-data-page .section-stack .card { min-height: 176px; border-radius: 16px; }
 .add-data-page .empty-state.compact { min-height: 104px; align-content: center; }
 

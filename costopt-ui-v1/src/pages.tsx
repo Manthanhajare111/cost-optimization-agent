@@ -188,7 +188,14 @@ export function AddDataPage() {
       <Button variant="primary" disabled={backendLoading} onClick={() => picker.current?.click()}>{backendLoading ? "Uploading…" : "Browse Files"}</Button>
       <small>Upload up to four files. Maximum 2 MB per file.</small>
     </div><Button className="upload-template-action" variant="text" icon="download">Download template</Button></Card>
-      <Card><div className="support-card"><Icon name="database" /><h2>Sample Fieldglass data</h2><p>Load the backend's governed synthetic workforce extract with roles and rates.</p><Button variant="primary" icon="database" disabled={backendLoading} onClick={loadSample}>{backendLoading ? "Loading…" : "Load Sample Fieldglass Data"}</Button><MessageStrip design="Information" hideCloseButton>{backendOnline ? "Loaded through FastAPI from the local synthetic workforce table; this is not a live SAP connection." : "Backend offline: deterministic browser demo data will be used."}</MessageStrip></div></Card></div>
+    <Card className="analysis-upload-card" title="Sample Fieldglass data" subtitle="Pre-loaded: Synthetic SAP Fieldglass workforce extract">
+      <div className="upload-zone sample-data-zone">
+        <Icon name="database" /><h3>Load sample workforce extract</h3><p>Deterministic roles, rates, and locations</p>
+        <Button variant="primary" icon="database" disabled={backendLoading} onClick={loadSample}>{backendLoading ? "Loading…" : "Load Sample Fieldglass Data"}</Button>
+        <small>15 benchmark workforce roles with complete rate structures</small>
+      </div>
+      <div className="sample-info-action"><Icon name="information" /><span>{backendOnline ? "Loaded through FastAPI from local synthetic table (not live SAP)" : "Backend offline: deterministic browser demo data"}</span></div>
+    </Card></div>
     <div className="section-stack"><Card className="table-card" title="Files" subtitle="Review extracted rows before validation"><DataTable rows={rows} columns={columns} empty="No files added yet." ariaLabel="Analysis files" /></Card></div>
     <div className="sticky-actions"><span>{canContinue ? "The extracted data is confirmed. Continue to run validation and review the results." : "Upload the required documents, then review and confirm the data package."}</span><div><Button onClick={() => navigate("/analyses")}>Back</Button><Button variant="primary" disabled={!canContinue || backendLoading} onClick={() => void continueToCheckData()}>{backendLoading ? "Validating…" : "Continue to Check Data"}</Button></div></div>
     <Modal open={Boolean(reviewFile)} title={`Review ${statusLabel(reviewKind)}`} size="large" className="extracted-data-modal" onClose={() => setReviewFile(null)} footer={<div className="dialog-actions"><Button onClick={() => setReviewFile(null)}>Cancel</Button><Button variant="primary" disabled={backendLoading} onClick={() => void confirmReview()}>{backendLoading ? "Processing…" : "Confirm Extracted Data"}</Button></div>}>
