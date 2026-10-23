@@ -1,0 +1,142 @@
+[
+  {
+    "supplier_id": "sup-acme-global",
+    "name": "Acme Global Delivery",
+    "region": "EMEA/APAC",
+    "capability": "Payments, platform engineering, managed delivery",
+    "created_at": "2026-06-01T08:00:00Z"
+  },
+  {
+    "supplier_id": "sup-bluewave-tech",
+    "name": "BlueWave Technology Services",
+    "region": "Europe",
+    "capability": "QA, support engineering, enterprise modernization",
+    "created_at": "2026-06-02T09:00:00Z"
+  },
+  {
+    "supplier_id": "sup-northbridge-digital",
+    "name": "NorthBridge Digital",
+    "region": "Global",
+    "capability": "Cloud transformation, API engineering, SRE",
+    "created_at": "2026-06-03T10:00:00Z"
+  },
+  {
+    "supplier_id": "sup-eastgate-solutions",
+    "name": "EastGate Solutions",
+    "region": "APAC",
+    "capability": "Application development, testing, support",
+    "created_at": "2026-06-04T11:00:00Z"
+  },
+  {
+    "supplier_id": "sup-redwood-advisory",
+    "name": "Redwood Advisory",
+    "region": "Americas",
+    "capability": "Architecture, consulting, delivery management",
+    "created_at": "2026-06-05T12:00:00Z"
+  },
+  {
+    "supplier_id": "sup-orbit-systems",
+    "name": "Orbit Systems",
+    "region": "Global",
+    "capability": "Managed services, DevOps, automation",
+    "created_at": "2026-06-06T13:00:00Z"
+  },
+  {
+    "supplier_id": "sup-vertex-consulting",
+    "name": "Vertex Consulting",
+    "region": "Europe",
+    "capability": "Data engineering, analytics, modernization",
+    "created_at": "2026-06-07T14:00:00Z"
+  },
+  {
+    "supplier_id": "sup-sunline-digital",
+    "name": "Sunline Digital",
+    "region": "APAC",
+    "capability": "Support, migration, product engineering",
+    "created_at": "2026-06-08T15:00:00Z"
+  },
+  {
+    "supplier_id": "sup-clearpath-it",
+    "name": "ClearPath IT",
+    "region": "Americas",
+    "capability": "Testing, product delivery, governance",
+    "created_at": "2026-06-09T16:00:00Z"
+  },
+  {
+    "supplier_id": "sup-aurora-works",
+    "name": "Aurora Works",
+    "region": "Global",
+    "capability": "Payments, core banking, agile pods",
+    "created_at": "2026-06-10T17:00:00Z"
+  },
+  {
+    "supplier_id": "sup-polaris-labs",
+    "name": "Polaris Labs",
+    "region": "Europe",
+    "capability": "Security engineering, compliance-heavy workloads",
+    "created_at": "2026-06-11T08:00:00Z"
+  },
+  {
+    "supplier_id": "sup-horizon-ops",
+    "name": "Horizon Ops",
+    "region": "Global",
+    "capability": "Run support, service desk, monitoring",
+    "created_at": "2026-06-12T09:00:00Z"
+  },
+  {
+    "supplier_id": "sup-mapleleaf-digital",
+    "name": "MapleLeaf Digital",
+    "region": "Americas",
+    "capability": "Frontend, mobile, CX engineering",
+    "created_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "supplier_id": "sup-riverstone-tech",
+    "name": "Riverstone Tech",
+    "region": "Europe",
+    "capability": "ERP extensions, integration engineering",
+    "created_at": "2026-06-14T11:00:00Z"
+  },
+  {
+    "supplier_id": "sup-nimbus-partners",
+    "name": "Nimbus Partners",
+    "region": "Global",
+    "capability": "Cloud platforms, shared services",
+    "created_at": "2026-06-15T12:00:00Z"
+  },
+  {
+    "supplier_id": "sup-zenbyte-services",
+    "name": "ZenByte Services",
+    "region": "APAC",
+    "capability": "Quality automation, support engineering",
+    "created_at": "2026-06-16T13:00:00Z"
+  },
+  {
+    "supplier_id": "sup-silveroak-global",
+    "name": "SilverOak Global",
+    "region": "EMEA",
+    "capability": "Program delivery, transformation squads",
+    "created_at": "2026-06-17T14:00:00Z"
+  },
+  {
+    "supplier_id": "sup-bridgepoint-logic",
+    "name": "BridgePoint Logic",
+    "region": "Americas",
+    "capability": "Data migration, reporting, middleware",
+    "created_at": "2026-06-18T15:00:00Z"
+  },
+  {
+    "supplier_id": "sup-cedarwave-tech",
+    "name": "CedarWave Tech",
+    "region": "Global",
+    "capability": "Platform operations, SRE, support",
+    "created_at": "2026-06-19T16:00:00Z"
+  },
+  {
+    "supplier_id": "sup-tristar-solutions",
+    "name": "TriStar Solutions",
+    "region": "APAC",
+    "capability": "Procurement tech, shared development pods",
+    "created_at": "2026-06-20T17:00:00Z"
+  }
+]

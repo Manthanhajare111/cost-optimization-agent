@@ -1,0 +1,422 @@
+[
+  {
+    "clause_id": "clause-001",
+    "contract_id": "ctr-001",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is permitted for software engineering services under this agreement.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-002",
+    "contract_id": "ctr-001",
+    "clause_type": "data_residency",
+    "clause_text": "EU PII must remain in approved EU-hosted workflows.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-003",
+    "contract_id": "ctr-001",
+    "clause_type": "customer_approval",
+    "clause_text": "Written customer approval is required before shifting delivery activity to a new geography.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-004",
+    "contract_id": "ctr-002",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is permitted for software engineering services under this agreement.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-005",
+    "contract_id": "ctr-002",
+    "clause_type": "data_residency",
+    "clause_text": "No special data residency restriction applies beyond standard policy.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-006",
+    "contract_id": "ctr-002",
+    "clause_type": "customer_approval",
+    "clause_text": "Written customer approval is required before shifting delivery activity to a new geography.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-007",
+    "contract_id": "ctr-003",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is permitted for software engineering services under this agreement.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-008",
+    "contract_id": "ctr-003",
+    "clause_type": "data_residency",
+    "clause_text": "Customer data classified as confidential must remain within designated regional delivery centers.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-009",
+    "contract_id": "ctr-003",
+    "clause_type": "customer_approval",
+    "clause_text": "No additional customer approval is required for location changes within approved supplier sites.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-010",
+    "contract_id": "ctr-004",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is permitted for software engineering services under this agreement.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-011",
+    "contract_id": "ctr-004",
+    "clause_type": "data_residency",
+    "clause_text": "EU PII must remain in approved EU-hosted workflows.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-012",
+    "contract_id": "ctr-004",
+    "clause_type": "customer_approval",
+    "clause_text": "Written customer approval is required before shifting delivery activity to a new geography.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-013",
+    "contract_id": "ctr-005",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is not permitted without a formal contract amendment.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-014",
+    "contract_id": "ctr-005",
+    "clause_type": "data_residency",
+    "clause_text": "No special data residency restriction applies beyond standard policy.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-015",
+    "contract_id": "ctr-005",
+    "clause_type": "customer_approval",
+    "clause_text": "No additional customer approval is required for location changes within approved supplier sites.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-016",
+    "contract_id": "ctr-006",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is permitted for software engineering services under this agreement.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-017",
+    "contract_id": "ctr-006",
+    "clause_type": "data_residency",
+    "clause_text": "No special data residency restriction applies beyond standard policy.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-018",
+    "contract_id": "ctr-006",
+    "clause_type": "customer_approval",
+    "clause_text": "Written customer approval is required before shifting delivery activity to a new geography.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-019",
+    "contract_id": "ctr-007",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is permitted for software engineering services under this agreement.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-020",
+    "contract_id": "ctr-007",
+    "clause_type": "data_residency",
+    "clause_text": "Customer data classified as confidential must remain within designated regional delivery centers.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-021",
+    "contract_id": "ctr-007",
+    "clause_type": "customer_approval",
+    "clause_text": "No additional customer approval is required for location changes within approved supplier sites.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-022",
+    "contract_id": "ctr-008",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is permitted for software engineering services under this agreement.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-023",
+    "contract_id": "ctr-008",
+    "clause_type": "data_residency",
+    "clause_text": "EU PII must remain in approved EU-hosted workflows.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-024",
+    "contract_id": "ctr-008",
+    "clause_type": "customer_approval",
+    "clause_text": "Written customer approval is required before shifting delivery activity to a new geography.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-025",
+    "contract_id": "ctr-009",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is permitted for software engineering services under this agreement.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-026",
+    "contract_id": "ctr-009",
+    "clause_type": "data_residency",
+    "clause_text": "No special data residency restriction applies beyond standard policy.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-027",
+    "contract_id": "ctr-009",
+    "clause_type": "customer_approval",
+    "clause_text": "No additional customer approval is required for location changes within approved supplier sites.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-028",
+    "contract_id": "ctr-010",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is not permitted without a formal contract amendment.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-029",
+    "contract_id": "ctr-010",
+    "clause_type": "data_residency",
+    "clause_text": "No special data residency restriction applies beyond standard policy.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-030",
+    "contract_id": "ctr-010",
+    "clause_type": "customer_approval",
+    "clause_text": "Written customer approval is required before shifting delivery activity to a new geography.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-031",
+    "contract_id": "ctr-011",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is permitted for software engineering services under this agreement.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-032",
+    "contract_id": "ctr-011",
+    "clause_type": "data_residency",
+    "clause_text": "Customer data classified as confidential must remain within designated regional delivery centers.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-033",
+    "contract_id": "ctr-011",
+    "clause_type": "customer_approval",
+    "clause_text": "No additional customer approval is required for location changes within approved supplier sites.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-034",
+    "contract_id": "ctr-012",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is permitted for software engineering services under this agreement.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-035",
+    "contract_id": "ctr-012",
+    "clause_type": "data_residency",
+    "clause_text": "EU PII must remain in approved EU-hosted workflows.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-036",
+    "contract_id": "ctr-012",
+    "clause_type": "customer_approval",
+    "clause_text": "Written customer approval is required before shifting delivery activity to a new geography.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-037",
+    "contract_id": "ctr-013",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is permitted for software engineering services under this agreement.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-038",
+    "contract_id": "ctr-013",
+    "clause_type": "data_residency",
+    "clause_text": "No special data residency restriction applies beyond standard policy.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-039",
+    "contract_id": "ctr-013",
+    "clause_type": "customer_approval",
+    "clause_text": "No additional customer approval is required for location changes within approved supplier sites.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-040",
+    "contract_id": "ctr-014",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is permitted for software engineering services under this agreement.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-041",
+    "contract_id": "ctr-014",
+    "clause_type": "data_residency",
+    "clause_text": "No special data residency restriction applies beyond standard policy.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-042",
+    "contract_id": "ctr-014",
+    "clause_type": "customer_approval",
+    "clause_text": "Written customer approval is required before shifting delivery activity to a new geography.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-043",
+    "contract_id": "ctr-015",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is not permitted without a formal contract amendment.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-044",
+    "contract_id": "ctr-015",
+    "clause_type": "data_residency",
+    "clause_text": "Customer data classified as confidential must remain within designated regional delivery centers.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-045",
+    "contract_id": "ctr-015",
+    "clause_type": "customer_approval",
+    "clause_text": "No additional customer approval is required for location changes within approved supplier sites.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-046",
+    "contract_id": "ctr-016",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is permitted for software engineering services under this agreement.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-047",
+    "contract_id": "ctr-016",
+    "clause_type": "data_residency",
+    "clause_text": "EU PII must remain in approved EU-hosted workflows.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-048",
+    "contract_id": "ctr-016",
+    "clause_type": "customer_approval",
+    "clause_text": "Written customer approval is required before shifting delivery activity to a new geography.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-049",
+    "contract_id": "ctr-017",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is permitted for software engineering services under this agreement.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-050",
+    "contract_id": "ctr-017",
+    "clause_type": "data_residency",
+    "clause_text": "No special data residency restriction applies beyond standard policy.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-051",
+    "contract_id": "ctr-017",
+    "clause_type": "customer_approval",
+    "clause_text": "No additional customer approval is required for location changes within approved supplier sites.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-052",
+    "contract_id": "ctr-018",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is permitted for software engineering services under this agreement.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-053",
+    "contract_id": "ctr-018",
+    "clause_type": "data_residency",
+    "clause_text": "No special data residency restriction applies beyond standard policy.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-054",
+    "contract_id": "ctr-018",
+    "clause_type": "customer_approval",
+    "clause_text": "Written customer approval is required before shifting delivery activity to a new geography.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-055",
+    "contract_id": "ctr-019",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is permitted for software engineering services under this agreement.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-056",
+    "contract_id": "ctr-019",
+    "clause_type": "data_residency",
+    "clause_text": "Customer data classified as confidential must remain within designated regional delivery centers.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-057",
+    "contract_id": "ctr-019",
+    "clause_type": "customer_approval",
+    "clause_text": "No additional customer approval is required for location changes within approved supplier sites.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-058",
+    "contract_id": "ctr-020",
+    "clause_type": "offshore_delivery",
+    "clause_text": "Offshore delivery is not permitted without a formal contract amendment.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-059",
+    "contract_id": "ctr-020",
+    "clause_type": "data_residency",
+    "clause_text": "EU PII must remain in approved EU-hosted workflows.",
+    "embedding": null
+  },
+  {
+    "clause_id": "clause-060",
+    "contract_id": "ctr-020",
+    "clause_type": "customer_approval",
+    "clause_text": "Written customer approval is required before shifting delivery activity to a new geography.",
+    "embedding": null
+  }
+]

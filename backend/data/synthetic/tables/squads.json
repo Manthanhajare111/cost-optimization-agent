@@ -1,0 +1,102 @@
+[
+  {
+    "squad_id": "squad-payments-platform",
+    "name": "Payments Platform Squad",
+    "business_unit": "Digital Banking"
+  },
+  {
+    "squad_id": "squad-core-banking-qa",
+    "name": "Core Banking QA Squad",
+    "business_unit": "Retail Banking"
+  },
+  {
+    "squad_id": "squad-global-support",
+    "name": "Global Support Pod",
+    "business_unit": "Service Operations"
+  },
+  {
+    "squad_id": "squad-mobile-app",
+    "name": "Mobile App Squad",
+    "business_unit": "Channels"
+  },
+  {
+    "squad_id": "squad-data-foundation",
+    "name": "Data Foundation Squad",
+    "business_unit": "Enterprise Data"
+  },
+  {
+    "squad_id": "squad-card-services",
+    "name": "Card Services Squad",
+    "business_unit": "Cards"
+  },
+  {
+    "squad_id": "squad-risk-analytics",
+    "name": "Risk Analytics Squad",
+    "business_unit": "Risk"
+  },
+  {
+    "squad_id": "squad-fraud-monitoring",
+    "name": "Fraud Monitoring Pod",
+    "business_unit": "Security"
+  },
+  {
+    "squad_id": "squad-loans-origination",
+    "name": "Loans Origination Squad",
+    "business_unit": "Lending"
+  },
+  {
+    "squad_id": "squad-kafka-platform",
+    "name": "Kafka Platform Squad",
+    "business_unit": "Infrastructure"
+  },
+  {
+    "squad_id": "squad-qa-automation",
+    "name": "QA Automation Guild",
+    "business_unit": "Engineering Excellence"
+  },
+  {
+    "squad_id": "squad-reg-reporting",
+    "name": "Regulatory Reporting Team",
+    "business_unit": "Finance"
+  },
+  {
+    "squad_id": "squad-api-gateway",
+    "name": "API Gateway Squad",
+    "business_unit": "Architecture"
+  },
+  {
+    "squad_id": "squad-observability",
+    "name": "Observability Pod",
+    "business_unit": "Infrastructure"
+  },
+  {
+    "squad_id": "squad-customer-360",
+    "name": "Customer 360 Team",
+    "business_unit": "CRM"
+  },
+  {
+    "squad_id": "squad-integration-hub",
+    "name": "Integration Hub Squad",
+    "business_unit": "Middleware"
+  },
+  {
+    "squad_id": "squad-cloud-migration",
+    "name": "Cloud Migration Factory",
+    "business_unit": "Transformation"
+  },
+  {
+    "squad_id": "squad-procurement-ops",
+    "name": "Procurement Ops Squad",
+    "business_unit": "Corporate Functions"
+  },
+  {
+    "squad_id": "squad-treasury-tech",
+    "name": "Treasury Tech Squad",
+    "business_unit": "Treasury"
+  },
+  {
+    "squad_id": "squad-identity-platform",
+    "name": "Identity Platform Squad",
+    "business_unit": "Security"
+  }
+]

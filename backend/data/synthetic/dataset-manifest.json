@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-08-28T00:00:00Z",
+  "generator": "scripts/generate_full_synthetic_dataset.py",
+  "table_counts": {
+    "suppliers": 20,
+    "locations": 20,
+    "squads": 20,
+    "resources": 110,
+    "rate_cards": 500,
+    "contracts": 20,
+    "contract_clauses": 60,
+    "optimization_scenarios": 20,
+    "recommendations": 20,
+    "recommendation_evidence": 60,
+    "categories": 20,
+    "purchase_orders": 60,
+    "procurement_contracts": 20,
+    "invoices": 40,
+    "procurement_recommendations": 20,
+    "users": 20,
+    "audit_log": 60
+  },
+  "minimum_rows_per_table": 20,
+  "document_count": 20,
+  "notes": [
+    "All table files are deterministic and safe to regenerate.",
+    "The workforce and procurement datasets share the same supplier master data.",
+    "The Germany to India scenario is preserved in the dedicated workforce templates and reflected in scenario outputs."
+  ]
+}

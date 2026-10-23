@@ -1,0 +1,202 @@
+[
+  {
+    "contract_id": "ctr-001",
+    "supplier_id": "sup-acme-global",
+    "document_uri": "data/synthetic/documents/contract-sow-01.txt",
+    "contract_type": "SOW",
+    "offshore_permitted": true,
+    "data_residency_restriction": "EU PII must remain in approved EU-hosted workflows.",
+    "customer_approval_required": true,
+    "created_at": "2026-06-01T08:00:00Z"
+  },
+  {
+    "contract_id": "ctr-002",
+    "supplier_id": "sup-bluewave-tech",
+    "document_uri": "data/synthetic/documents/contract-sow-02.txt",
+    "contract_type": "MSA",
+    "offshore_permitted": true,
+    "data_residency_restriction": null,
+    "customer_approval_required": true,
+    "created_at": "2026-06-02T09:00:00Z"
+  },
+  {
+    "contract_id": "ctr-003",
+    "supplier_id": "sup-northbridge-digital",
+    "document_uri": "data/synthetic/documents/contract-sow-03.txt",
+    "contract_type": "Rate Card",
+    "offshore_permitted": true,
+    "data_residency_restriction": "Customer data classified as confidential must remain within designated regional delivery centers.",
+    "customer_approval_required": false,
+    "created_at": "2026-06-03T10:00:00Z"
+  },
+  {
+    "contract_id": "ctr-004",
+    "supplier_id": "sup-eastgate-solutions",
+    "document_uri": "data/synthetic/documents/contract-sow-04.txt",
+    "contract_type": "Service Agreement",
+    "offshore_permitted": true,
+    "data_residency_restriction": "EU PII must remain in approved EU-hosted workflows.",
+    "customer_approval_required": true,
+    "created_at": "2026-06-04T11:00:00Z"
+  },
+  {
+    "contract_id": "ctr-005",
+    "supplier_id": "sup-redwood-advisory",
+    "document_uri": "data/synthetic/documents/contract-sow-05.txt",
+    "contract_type": "SOW",
+    "offshore_permitted": false,
+    "data_residency_restriction": null,
+    "customer_approval_required": false,
+    "created_at": "2026-06-05T12:00:00Z"
+  },
+  {
+    "contract_id": "ctr-006",
+    "supplier_id": "sup-orbit-systems",
+    "document_uri": "data/synthetic/documents/contract-sow-06.txt",
+    "contract_type": "MSA",
+    "offshore_permitted": true,
+    "data_residency_restriction": null,
+    "customer_approval_required": true,
+    "created_at": "2026-06-06T13:00:00Z"
+  },
+  {
+    "contract_id": "ctr-007",
+    "supplier_id": "sup-vertex-consulting",
+    "document_uri": "data/synthetic/documents/contract-sow-07.txt",
+    "contract_type": "Rate Card",
+    "offshore_permitted": true,
+    "data_residency_restriction": "Customer data classified as confidential must remain within designated regional delivery centers.",
+    "customer_approval_required": false,
+    "created_at": "2026-06-07T14:00:00Z"
+  },
+  {
+    "contract_id": "ctr-008",
+    "supplier_id": "sup-sunline-digital",
+    "document_uri": "data/synthetic/documents/contract-sow-08.txt",
+    "contract_type": "Service Agreement",
+    "offshore_permitted": true,
+    "data_residency_restriction": "EU PII must remain in approved EU-hosted workflows.",
+    "customer_approval_required": true,
+    "created_at": "2026-06-08T15:00:00Z"
+  },
+  {
+    "contract_id": "ctr-009",
+    "supplier_id": "sup-clearpath-it",
+    "document_uri": "data/synthetic/documents/contract-sow-09.txt",
+    "contract_type": "SOW",
+    "offshore_permitted": true,
+    "data_residency_restriction": null,
+    "customer_approval_required": false,
+    "created_at": "2026-06-09T16:00:00Z"
+  },
+  {
+    "contract_id": "ctr-010",
+    "supplier_id": "sup-aurora-works",
+    "document_uri": "data/synthetic/documents/contract-sow-10.txt",
+    "contract_type": "MSA",
+    "offshore_permitted": false,
+    "data_residency_restriction": null,
+    "customer_approval_required": true,
+    "created_at": "2026-06-10T17:00:00Z"
+  },
+  {
+    "contract_id": "ctr-011",
+    "supplier_id": "sup-polaris-labs",
+    "document_uri": "data/synthetic/documents/contract-sow-11.txt",
+    "contract_type": "Rate Card",
+    "offshore_permitted": true,
+    "data_residency_restriction": "Customer data classified as confidential must remain within designated regional delivery centers.",
+    "customer_approval_required": false,
+    "created_at": "2026-06-11T08:00:00Z"
+  },
+  {
+    "contract_id": "ctr-012",
+    "supplier_id": "sup-horizon-ops",
+    "document_uri": "data/synthetic/documents/contract-sow-12.txt",
+    "contract_type": "Service Agreement",
+    "offshore_permitted": true,
+    "data_residency_restriction": "EU PII must remain in approved EU-hosted workflows.",
+    "customer_approval_required": true,
+    "created_at": "2026-06-12T09:00:00Z"
+  },
+  {
+    "contract_id": "ctr-013",
+    "supplier_id": "sup-mapleleaf-digital",
+    "document_uri": "data/synthetic/documents/contract-sow-13.txt",
+    "contract_type": "SOW",
+    "offshore_permitted": true,
+    "data_residency_restriction": null,
+    "customer_approval_required": false,
+    "created_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "contract_id": "ctr-014",
+    "supplier_id": "sup-riverstone-tech",
+    "document_uri": "data/synthetic/documents/contract-sow-14.txt",
+    "contract_type": "MSA",
+    "offshore_permitted": true,
+    "data_residency_restriction": null,
+    "customer_approval_required": true,
+    "created_at": "2026-06-14T11:00:00Z"
+  },
+  {
+    "contract_id": "ctr-015",
+    "supplier_id": "sup-nimbus-partners",
+    "document_uri": "data/synthetic/documents/contract-sow-15.txt",
+    "contract_type": "Rate Card",
+    "offshore_permitted": false,
+    "data_residency_restriction": "Customer data classified as confidential must remain within designated regional delivery centers.",
+    "customer_approval_required": false,
+    "created_at": "2026-06-15T12:00:00Z"
+  },
+  {
+    "contract_id": "ctr-016",
+    "supplier_id": "sup-zenbyte-services",
+    "document_uri": "data/synthetic/documents/contract-sow-16.txt",
+    "contract_type": "Service Agreement",
+    "offshore_permitted": true,
+    "data_residency_restriction": "EU PII must remain in approved EU-hosted workflows.",
+    "customer_approval_required": true,
+    "created_at": "2026-06-16T13:00:00Z"
+  },
+  {
+    "contract_id": "ctr-017",
+    "supplier_id": "sup-silveroak-global",
+    "document_uri": "data/synthetic/documents/contract-sow-17.txt",
+    "contract_type": "SOW",
+    "offshore_permitted": true,
+    "data_residency_restriction": null,
+    "customer_approval_required": false,
+    "created_at": "2026-06-17T14:00:00Z"
+  },
+  {
+    "contract_id": "ctr-018",
+    "supplier_id": "sup-bridgepoint-logic",
+    "document_uri": "data/synthetic/documents/contract-sow-18.txt",
+    "contract_type": "MSA",
+    "offshore_permitted": true,
+    "data_residency_restriction": null,
+    "customer_approval_required": true,
+    "created_at": "2026-06-18T15:00:00Z"
+  },
+  {
+    "contract_id": "ctr-019",
+    "supplier_id": "sup-cedarwave-tech",
+    "document_uri": "data/synthetic/documents/contract-sow-19.txt",
+    "contract_type": "Rate Card",
+    "offshore_permitted": true,
+    "data_residency_restriction": "Customer data classified as confidential must remain within designated regional delivery centers.",
+    "customer_approval_required": false,
+    "created_at": "2026-06-19T16:00:00Z"
+  },
+  {
+    "contract_id": "ctr-020",
+    "supplier_id": "sup-tristar-solutions",
+    "document_uri": "data/synthetic/documents/contract-sow-20.txt",
+    "contract_type": "Service Agreement",
+    "offshore_permitted": false,
+    "data_residency_restriction": "EU PII must remain in approved EU-hosted workflows.",
+    "customer_approval_required": true,
+    "created_at": "2026-06-20T17:00:00Z"
+  }
+]

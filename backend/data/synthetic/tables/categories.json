@@ -1,0 +1,102 @@
+[
+  {
+    "category_id": "cat-it-services",
+    "name": "IT Services",
+    "commodity_code": "IT-001"
+  },
+  {
+    "category_id": "cat-consulting",
+    "name": "Consulting",
+    "commodity_code": "CS-014"
+  },
+  {
+    "category_id": "cat-cloud-hosting",
+    "name": "Cloud Hosting",
+    "commodity_code": "CL-220"
+  },
+  {
+    "category_id": "cat-managed-support",
+    "name": "Managed Support",
+    "commodity_code": "MS-032"
+  },
+  {
+    "category_id": "cat-software-testing",
+    "name": "Software Testing",
+    "commodity_code": "QA-118"
+  },
+  {
+    "category_id": "cat-product-design",
+    "name": "Product Design",
+    "commodity_code": "PD-048"
+  },
+  {
+    "category_id": "cat-cybersecurity",
+    "name": "Cybersecurity",
+    "commodity_code": "CY-071"
+  },
+  {
+    "category_id": "cat-data-platforms",
+    "name": "Data Platforms",
+    "commodity_code": "DP-205"
+  },
+  {
+    "category_id": "cat-integration-services",
+    "name": "Integration Services",
+    "commodity_code": "IS-113"
+  },
+  {
+    "category_id": "cat-mobile-engineering",
+    "name": "Mobile Engineering",
+    "commodity_code": "ME-064"
+  },
+  {
+    "category_id": "cat-bpm-services",
+    "name": "BPM Services",
+    "commodity_code": "BP-152"
+  },
+  {
+    "category_id": "cat-erp-services",
+    "name": "ERP Services",
+    "commodity_code": "ER-147"
+  },
+  {
+    "category_id": "cat-observability-tools",
+    "name": "Observability Tools",
+    "commodity_code": "OB-091"
+  },
+  {
+    "category_id": "cat-service-desk",
+    "name": "Service Desk",
+    "commodity_code": "SD-033"
+  },
+  {
+    "category_id": "cat-analytics-advisory",
+    "name": "Analytics Advisory",
+    "commodity_code": "AA-177"
+  },
+  {
+    "category_id": "cat-network-operations",
+    "name": "Network Operations",
+    "commodity_code": "NO-120"
+  },
+  {
+    "category_id": "cat-shared-delivery",
+    "name": "Shared Delivery",
+    "commodity_code": "SH-089"
+  },
+  {
+    "category_id": "cat-supplier-transition",
+    "name": "Supplier Transition",
+    "commodity_code": "ST-145"
+  },
+  {
+    "category_id": "cat-devops-services",
+    "name": "DevOps Services",
+    "commodity_code": "DV-097"
+  },
+  {
+    "category_id": "cat-reporting-services",
+    "name": "Reporting Services",
+    "commodity_code": "RP-188"
+  }
+]

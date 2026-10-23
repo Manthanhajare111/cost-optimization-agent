@@ -1,0 +1,202 @@
+[
+  {
+    "procurement_contract_id": "pct-001",
+    "supplier_id": "sup-acme-global",
+    "category_id": "cat-it-services",
+    "negotiated_rate": 438.5,
+    "currency": "EUR",
+    "is_preferred_supplier": true,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-002",
+    "supplier_id": "sup-bluewave-tech",
+    "category_id": "cat-consulting",
+    "negotiated_rate": 457.0,
+    "currency": "EUR",
+    "is_preferred_supplier": true,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-003",
+    "supplier_id": "sup-northbridge-digital",
+    "category_id": "cat-cloud-hosting",
+    "negotiated_rate": 475.5,
+    "currency": "EUR",
+    "is_preferred_supplier": false,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-004",
+    "supplier_id": "sup-eastgate-solutions",
+    "category_id": "cat-managed-support",
+    "negotiated_rate": 494.0,
+    "currency": "EUR",
+    "is_preferred_supplier": true,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-005",
+    "supplier_id": "sup-redwood-advisory",
+    "category_id": "cat-software-testing",
+    "negotiated_rate": 512.5,
+    "currency": "EUR",
+    "is_preferred_supplier": true,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-006",
+    "supplier_id": "sup-orbit-systems",
+    "category_id": "cat-product-design",
+    "negotiated_rate": 531.0,
+    "currency": "EUR",
+    "is_preferred_supplier": false,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-007",
+    "supplier_id": "sup-vertex-consulting",
+    "category_id": "cat-cybersecurity",
+    "negotiated_rate": 549.5,
+    "currency": "EUR",
+    "is_preferred_supplier": true,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-008",
+    "supplier_id": "sup-sunline-digital",
+    "category_id": "cat-data-platforms",
+    "negotiated_rate": 568.0,
+    "currency": "EUR",
+    "is_preferred_supplier": true,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-009",
+    "supplier_id": "sup-clearpath-it",
+    "category_id": "cat-integration-services",
+    "negotiated_rate": 586.5,
+    "currency": "EUR",
+    "is_preferred_supplier": false,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-010",
+    "supplier_id": "sup-aurora-works",
+    "category_id": "cat-mobile-engineering",
+    "negotiated_rate": 605.0,
+    "currency": "EUR",
+    "is_preferred_supplier": true,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-011",
+    "supplier_id": "sup-polaris-labs",
+    "category_id": "cat-bpm-services",
+    "negotiated_rate": 623.5,
+    "currency": "EUR",
+    "is_preferred_supplier": true,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-012",
+    "supplier_id": "sup-horizon-ops",
+    "category_id": "cat-erp-services",
+    "negotiated_rate": 642.0,
+    "currency": "EUR",
+    "is_preferred_supplier": false,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-013",
+    "supplier_id": "sup-mapleleaf-digital",
+    "category_id": "cat-observability-tools",
+    "negotiated_rate": 660.5,
+    "currency": "EUR",
+    "is_preferred_supplier": true,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-014",
+    "supplier_id": "sup-riverstone-tech",
+    "category_id": "cat-service-desk",
+    "negotiated_rate": 679.0,
+    "currency": "EUR",
+    "is_preferred_supplier": true,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-015",
+    "supplier_id": "sup-nimbus-partners",
+    "category_id": "cat-analytics-advisory",
+    "negotiated_rate": 697.5,
+    "currency": "EUR",
+    "is_preferred_supplier": false,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-016",
+    "supplier_id": "sup-zenbyte-services",
+    "category_id": "cat-network-operations",
+    "negotiated_rate": 716.0,
+    "currency": "EUR",
+    "is_preferred_supplier": true,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-017",
+    "supplier_id": "sup-silveroak-global",
+    "category_id": "cat-shared-delivery",
+    "negotiated_rate": 734.5,
+    "currency": "EUR",
+    "is_preferred_supplier": true,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-018",
+    "supplier_id": "sup-bridgepoint-logic",
+    "category_id": "cat-supplier-transition",
+    "negotiated_rate": 753.0,
+    "currency": "EUR",
+    "is_preferred_supplier": false,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-019",
+    "supplier_id": "sup-cedarwave-tech",
+    "category_id": "cat-devops-services",
+    "negotiated_rate": 771.5,
+    "currency": "EUR",
+    "is_preferred_supplier": true,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  },
+  {
+    "procurement_contract_id": "pct-020",
+    "supplier_id": "sup-tristar-solutions",
+    "category_id": "cat-reporting-services",
+    "negotiated_rate": 790.0,
+    "currency": "EUR",
+    "is_preferred_supplier": true,
+    "start_date": "2026-01-01",
+    "end_date": "2027-12-31"
+  }
+]

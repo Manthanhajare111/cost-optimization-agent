@@ -1,0 +1,302 @@
+[
+  {
+    "evidence_id": "evd-001",
+    "recommendation_id": "rec-001",
+    "clause_id": "clause-001"
+  },
+  {
+    "evidence_id": "evd-002",
+    "recommendation_id": "rec-001",
+    "clause_id": "clause-002"
+  },
+  {
+    "evidence_id": "evd-003",
+    "recommendation_id": "rec-001",
+    "clause_id": "clause-003"
+  },
+  {
+    "evidence_id": "evd-004",
+    "recommendation_id": "rec-002",
+    "clause_id": "clause-004"
+  },
+  {
+    "evidence_id": "evd-005",
+    "recommendation_id": "rec-002",
+    "clause_id": "clause-005"
+  },
+  {
+    "evidence_id": "evd-006",
+    "recommendation_id": "rec-002",
+    "clause_id": "clause-006"
+  },
+  {
+    "evidence_id": "evd-007",
+    "recommendation_id": "rec-003",
+    "clause_id": "clause-007"
+  },
+  {
+    "evidence_id": "evd-008",
+    "recommendation_id": "rec-003",
+    "clause_id": "clause-008"
+  },
+  {
+    "evidence_id": "evd-009",
+    "recommendation_id": "rec-003",
+    "clause_id": "clause-009"
+  },
+  {
+    "evidence_id": "evd-010",
+    "recommendation_id": "rec-004",
+    "clause_id": "clause-010"
+  },
+  {
+    "evidence_id": "evd-011",
+    "recommendation_id": "rec-004",
+    "clause_id": "clause-011"
+  },
+  {
+    "evidence_id": "evd-012",
+    "recommendation_id": "rec-004",
+    "clause_id": "clause-012"
+  },
+  {
+    "evidence_id": "evd-013",
+    "recommendation_id": "rec-005",
+    "clause_id": "clause-013"
+  },
+  {
+    "evidence_id": "evd-014",
+    "recommendation_id": "rec-005",
+    "clause_id": "clause-014"
+  },
+  {
+    "evidence_id": "evd-015",
+    "recommendation_id": "rec-005",
+    "clause_id": "clause-015"
+  },
+  {
+    "evidence_id": "evd-016",
+    "recommendation_id": "rec-006",
+    "clause_id": "clause-016"
+  },
+  {
+    "evidence_id": "evd-017",
+    "recommendation_id": "rec-006",
+    "clause_id": "clause-017"
+  },
+  {
+    "evidence_id": "evd-018",
+    "recommendation_id": "rec-006",
+    "clause_id": "clause-018"
+  },
+  {
+    "evidence_id": "evd-019",
+    "recommendation_id": "rec-007",
+    "clause_id": "clause-019"
+  },
+  {
+    "evidence_id": "evd-020",
+    "recommendation_id": "rec-007",
+    "clause_id": "clause-020"
+  },
+  {
+    "evidence_id": "evd-021",
+    "recommendation_id": "rec-007",
+    "clause_id": "clause-021"
+  },
+  {
+    "evidence_id": "evd-022",
+    "recommendation_id": "rec-008",
+    "clause_id": "clause-022"
+  },
+  {
+    "evidence_id": "evd-023",
+    "recommendation_id": "rec-008",
+    "clause_id": "clause-023"
+  },
+  {
+    "evidence_id": "evd-024",
+    "recommendation_id": "rec-008",
+    "clause_id": "clause-024"
+  },
+  {
+    "evidence_id": "evd-025",
+    "recommendation_id": "rec-009",
+    "clause_id": "clause-025"
+  },
+  {
+    "evidence_id": "evd-026",
+    "recommendation_id": "rec-009",
+    "clause_id": "clause-026"
+  },
+  {
+    "evidence_id": "evd-027",
+    "recommendation_id": "rec-009",
+    "clause_id": "clause-027"
+  },
+  {
+    "evidence_id": "evd-028",
+    "recommendation_id": "rec-010",
+    "clause_id": "clause-028"
+  },
+  {
+    "evidence_id": "evd-029",
+    "recommendation_id": "rec-010",
+    "clause_id": "clause-029"
+  },
+  {
+    "evidence_id": "evd-030",
+    "recommendation_id": "rec-010",
+    "clause_id": "clause-030"
+  },
+  {
+    "evidence_id": "evd-031",
+    "recommendation_id": "rec-011",
+    "clause_id": "clause-031"
+  },
+  {
+    "evidence_id": "evd-032",
+    "recommendation_id": "rec-011",
+    "clause_id": "clause-032"
+  },
+  {
+    "evidence_id": "evd-033",
+    "recommendation_id": "rec-011",
+    "clause_id": "clause-033"
+  },
+  {
+    "evidence_id": "evd-034",
+    "recommendation_id": "rec-012",
+    "clause_id": "clause-034"
+  },
+  {
+    "evidence_id": "evd-035",
+    "recommendation_id": "rec-012",
+    "clause_id": "clause-035"
+  },
+  {
+    "evidence_id": "evd-036",
+    "recommendation_id": "rec-012",
+    "clause_id": "clause-036"
+  },
+  {
+    "evidence_id": "evd-037",
+    "recommendation_id": "rec-013",
+    "clause_id": "clause-037"
+  },
+  {
+    "evidence_id": "evd-038",
+    "recommendation_id": "rec-013",
+    "clause_id": "clause-038"
+  },
+  {
+    "evidence_id": "evd-039",
+    "recommendation_id": "rec-013",
+    "clause_id": "clause-039"
+  },
+  {
+    "evidence_id": "evd-040",
+    "recommendation_id": "rec-014",
+    "clause_id": "clause-040"
+  },
+  {
+    "evidence_id": "evd-041",
+    "recommendation_id": "rec-014",
+    "clause_id": "clause-041"
+  },
+  {
+    "evidence_id": "evd-042",
+    "recommendation_id": "rec-014",
+    "clause_id": "clause-042"
+  },
+  {
+    "evidence_id": "evd-043",
+    "recommendation_id": "rec-015",
+    "clause_id": "clause-043"
+  },
+  {
+    "evidence_id": "evd-044",
+    "recommendation_id": "rec-015",
+    "clause_id": "clause-044"
+  },
+  {
+    "evidence_id": "evd-045",
+    "recommendation_id": "rec-015",
+    "clause_id": "clause-045"
+  },
+  {
+    "evidence_id": "evd-046",
+    "recommendation_id": "rec-016",
+    "clause_id": "clause-046"
+  },
+  {
+    "evidence_id": "evd-047",
+    "recommendation_id": "rec-016",
+    "clause_id": "clause-047"
+  },
+  {
+    "evidence_id": "evd-048",
+    "recommendation_id": "rec-016",
+    "clause_id": "clause-048"
+  },
+  {
+    "evidence_id": "evd-049",
+    "recommendation_id": "rec-017",
+    "clause_id": "clause-049"
+  },
+  {
+    "evidence_id": "evd-050",
+    "recommendation_id": "rec-017",
+    "clause_id": "clause-050"
+  },
+  {
+    "evidence_id": "evd-051",
+    "recommendation_id": "rec-017",
+    "clause_id": "clause-051"
+  },
+  {
+    "evidence_id": "evd-052",
+    "recommendation_id": "rec-018",
+    "clause_id": "clause-052"
+  },
+  {
+    "evidence_id": "evd-053",
+    "recommendation_id": "rec-018",
+    "clause_id": "clause-053"
+  },
+  {
+    "evidence_id": "evd-054",
+    "recommendation_id": "rec-018",
+    "clause_id": "clause-054"
+  },
+  {
+    "evidence_id": "evd-055",
+    "recommendation_id": "rec-019",
+    "clause_id": "clause-055"
+  },
+  {
+    "evidence_id": "evd-056",
+    "recommendation_id": "rec-019",
+    "clause_id": "clause-056"
+  },
+  {
+    "evidence_id": "evd-057",
+    "recommendation_id": "rec-019",
+    "clause_id": "clause-057"
+  },
+  {
+    "evidence_id": "evd-058",
+    "recommendation_id": "rec-020",
+    "clause_id": "clause-058"
+  },
+  {
+    "evidence_id": "evd-059",
+    "recommendation_id": "rec-020",
+    "clause_id": "clause-059"
+  },
+  {
+    "evidence_id": "evd-060",
+    "recommendation_id": "rec-020",
+    "clause_id": "clause-060"
+  }
+]

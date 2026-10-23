@@ -1,0 +1,8 @@
+Synthetic Contract Document for ctr-015
+
+Supplier: sup-nimbus-partners
+Contract Type: Rate Card
+
+offshore_delivery: Offshore delivery is not permitted without a formal contract amendment.
+data_residency: Customer data classified as confidential must remain within designated regional delivery centers.
+customer_approval: No additional customer approval is required for location changes within approved supplier sites.

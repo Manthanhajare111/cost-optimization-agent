@@ -1,0 +1,24 @@
+{
+  "catalogue_version": "2026-09-25",
+  "data_boundary": "synthetic canonical data plus sanitised SAP samples; no live SAP connectivity",
+  "entities": [
+    {
+      "name": "resource",
+      "description": "Worker resource profile and assignment"
+    },
+    {
+      "name": "rate_card",
+      "description": "Rate card and shoring rate data"
+    },
+    {
+      "name": "contract",
+      "description": "Contract clauses and compliance terms"
+    }
+  ],
+  "open_gaps": [
+    {
+      "gap_id": "G-001",
+      "description": "Synthetic demo boundary active; live SAP API credentials not connected"
+    }
+  ]
+}

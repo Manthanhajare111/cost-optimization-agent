@@ -1,0 +1,362 @@
+[
+  {
+    "invoice_id": "inv-001",
+    "supplier_id": "sup-acme-global",
+    "po_id": "po-001",
+    "procurement_contract_id": "pct-001",
+    "invoiced_amount": 13365.25,
+    "currency": "EUR",
+    "invoice_date": "2026-01-11"
+  },
+  {
+    "invoice_id": "inv-002",
+    "supplier_id": "sup-bluewave-tech",
+    "po_id": "po-002",
+    "procurement_contract_id": "pct-002",
+    "invoiced_amount": 15700.0,
+    "currency": "EUR",
+    "invoice_date": "2026-01-12"
+  },
+  {
+    "invoice_id": "inv-003",
+    "supplier_id": "sup-northbridge-digital",
+    "po_id": "po-003",
+    "procurement_contract_id": "pct-003",
+    "invoiced_amount": 18164.25,
+    "currency": "EUR",
+    "invoice_date": "2026-01-13"
+  },
+  {
+    "invoice_id": "inv-004",
+    "supplier_id": "sup-bluewave-tech",
+    "po_id": "po-004",
+    "procurement_contract_id": "pct-002",
+    "invoiced_amount": 20758.0,
+    "currency": "EUR",
+    "invoice_date": "2026-01-14"
+  },
+  {
+    "invoice_id": "inv-005",
+    "supplier_id": "sup-northbridge-digital",
+    "po_id": "po-005",
+    "procurement_contract_id": "pct-003",
+    "invoiced_amount": 19762.5,
+    "currency": "EUR",
+    "invoice_date": "2026-01-15"
+  },
+  {
+    "invoice_id": "inv-006",
+    "supplier_id": "sup-eastgate-solutions",
+    "po_id": null,
+    "procurement_contract_id": "pct-004",
+    "invoiced_amount": 22291.5,
+    "currency": "EUR",
+    "invoice_date": "2026-01-16"
+  },
+  {
+    "invoice_id": "inv-007",
+    "supplier_id": "sup-northbridge-digital",
+    "po_id": "po-007",
+    "procurement_contract_id": null,
+    "invoiced_amount": 24950.0,
+    "currency": "EUR",
+    "invoice_date": "2026-01-17"
+  },
+  {
+    "invoice_id": "inv-008",
+    "supplier_id": "sup-eastgate-solutions",
+    "po_id": "po-008",
+    "procurement_contract_id": "pct-004",
+    "invoiced_amount": 27738.0,
+    "currency": "EUR",
+    "invoice_date": "2026-01-18"
+  },
+  {
+    "invoice_id": "inv-009",
+    "supplier_id": "sup-redwood-advisory",
+    "po_id": "po-009",
+    "procurement_contract_id": "pct-005",
+    "invoiced_amount": 30655.5,
+    "currency": "EUR",
+    "invoice_date": "2026-01-19"
+  },
+  {
+    "invoice_id": "inv-010",
+    "supplier_id": "sup-eastgate-solutions",
+    "po_id": "po-010",
+    "procurement_contract_id": "pct-004",
+    "invoiced_amount": 28365.0,
+    "currency": "EUR",
+    "invoice_date": "2026-01-20"
+  },
+  {
+    "invoice_id": "inv-011",
+    "supplier_id": "sup-redwood-advisory",
+    "po_id": "po-011",
+    "procurement_contract_id": "pct-005",
+    "invoiced_amount": 31217.75,
+    "currency": "EUR",
+    "invoice_date": "2026-02-01"
+  },
+  {
+    "invoice_id": "inv-012",
+    "supplier_id": "sup-orbit-systems",
+    "po_id": null,
+    "procurement_contract_id": "pct-006",
+    "invoiced_amount": 34200.0,
+    "currency": "EUR",
+    "invoice_date": "2026-02-02"
+  },
+  {
+    "invoice_id": "inv-013",
+    "supplier_id": "sup-redwood-advisory",
+    "po_id": "po-013",
+    "procurement_contract_id": "pct-005",
+    "invoiced_amount": 37311.75,
+    "currency": "EUR",
+    "invoice_date": "2026-02-03"
+  },
+  {
+    "invoice_id": "inv-014",
+    "supplier_id": "sup-orbit-systems",
+    "po_id": "po-014",
+    "procurement_contract_id": null,
+    "invoiced_amount": 40553.0,
+    "currency": "EUR",
+    "invoice_date": "2026-02-04"
+  },
+  {
+    "invoice_id": "inv-015",
+    "supplier_id": "sup-vertex-consulting",
+    "po_id": "po-015",
+    "procurement_contract_id": "pct-007",
+    "invoiced_amount": 36967.5,
+    "currency": "EUR",
+    "invoice_date": "2026-02-05"
+  },
+  {
+    "invoice_id": "inv-016",
+    "supplier_id": "sup-orbit-systems",
+    "po_id": "po-016",
+    "procurement_contract_id": "pct-006",
+    "invoiced_amount": 40144.0,
+    "currency": "EUR",
+    "invoice_date": "2026-02-06"
+  },
+  {
+    "invoice_id": "inv-017",
+    "supplier_id": "sup-vertex-consulting",
+    "po_id": "po-017",
+    "procurement_contract_id": "pct-007",
+    "invoiced_amount": 43450.0,
+    "currency": "EUR",
+    "invoice_date": "2026-02-07"
+  },
+  {
+    "invoice_id": "inv-018",
+    "supplier_id": "sup-sunline-digital",
+    "po_id": null,
+    "procurement_contract_id": "pct-008",
+    "invoiced_amount": 46885.5,
+    "currency": "EUR",
+    "invoice_date": "2026-02-08"
+  },
+  {
+    "invoice_id": "inv-019",
+    "supplier_id": "sup-vertex-consulting",
+    "po_id": "po-019",
+    "procurement_contract_id": "pct-007",
+    "invoiced_amount": 50450.5,
+    "currency": "EUR",
+    "invoice_date": "2026-02-09"
+  },
+  {
+    "invoice_id": "inv-020",
+    "supplier_id": "sup-sunline-digital",
+    "po_id": "po-020",
+    "procurement_contract_id": "pct-008",
+    "invoiced_amount": 45570.0,
+    "currency": "EUR",
+    "invoice_date": "2026-02-10"
+  },
+  {
+    "invoice_id": "inv-021",
+    "supplier_id": "sup-clearpath-it",
+    "po_id": "po-021",
+    "procurement_contract_id": null,
+    "invoiced_amount": 49070.25,
+    "currency": "EUR",
+    "invoice_date": "2026-02-11"
+  },
+  {
+    "invoice_id": "inv-022",
+    "supplier_id": "sup-sunline-digital",
+    "po_id": "po-022",
+    "procurement_contract_id": "pct-008",
+    "invoiced_amount": 52700.0,
+    "currency": "EUR",
+    "invoice_date": "2026-02-12"
+  },
+  {
+    "invoice_id": "inv-023",
+    "supplier_id": "sup-clearpath-it",
+    "po_id": "po-023",
+    "procurement_contract_id": "pct-009",
+    "invoiced_amount": 56459.25,
+    "currency": "EUR",
+    "invoice_date": "2026-02-13"
+  },
+  {
+    "invoice_id": "inv-024",
+    "supplier_id": "sup-aurora-works",
+    "po_id": null,
+    "procurement_contract_id": "pct-010",
+    "invoiced_amount": 60348.0,
+    "currency": "EUR",
+    "invoice_date": "2026-02-14"
+  },
+  {
+    "invoice_id": "inv-025",
+    "supplier_id": "sup-clearpath-it",
+    "po_id": "po-025",
+    "procurement_contract_id": "pct-009",
+    "invoiced_amount": 54172.5,
+    "currency": "EUR",
+    "invoice_date": "2026-02-15"
+  },
+  {
+    "invoice_id": "inv-026",
+    "supplier_id": "sup-aurora-works",
+    "po_id": "po-026",
+    "procurement_contract_id": "pct-010",
+    "invoiced_amount": 57996.5,
+    "currency": "EUR",
+    "invoice_date": "2026-02-16"
+  },
+  {
+    "invoice_id": "inv-027",
+    "supplier_id": "sup-polaris-labs",
+    "po_id": "po-027",
+    "procurement_contract_id": "pct-011",
+    "invoiced_amount": 61950.0,
+    "currency": "EUR",
+    "invoice_date": "2026-02-17"
+  },
+  {
+    "invoice_id": "inv-028",
+    "supplier_id": "sup-aurora-works",
+    "po_id": "po-028",
+    "procurement_contract_id": null,
+    "invoiced_amount": 66033.0,
+    "currency": "EUR",
+    "invoice_date": "2026-02-18"
+  },
+  {
+    "invoice_id": "inv-029",
+    "supplier_id": "sup-polaris-labs",
+    "po_id": "po-029",
+    "procurement_contract_id": "pct-011",
+    "invoiced_amount": 70245.5,
+    "currency": "EUR",
+    "invoice_date": "2026-02-19"
+  },
+  {
+    "invoice_id": "inv-030",
+    "supplier_id": "sup-horizon-ops",
+    "po_id": null,
+    "procurement_contract_id": "pct-012",
+    "invoiced_amount": 62775.0,
+    "currency": "EUR",
+    "invoice_date": "2026-02-20"
+  },
+  {
+    "invoice_id": "inv-031",
+    "supplier_id": "sup-polaris-labs",
+    "po_id": "po-031",
+    "procurement_contract_id": "pct-011",
+    "invoiced_amount": 66922.75,
+    "currency": "EUR",
+    "invoice_date": "2026-03-01"
+  },
+  {
+    "invoice_id": "inv-032",
+    "supplier_id": "sup-horizon-ops",
+    "po_id": "po-032",
+    "procurement_contract_id": "pct-012",
+    "invoiced_amount": 71200.0,
+    "currency": "EUR",
+    "invoice_date": "2026-03-02"
+  },
+  {
+    "invoice_id": "inv-033",
+    "supplier_id": "sup-mapleleaf-digital",
+    "po_id": "po-033",
+    "procurement_contract_id": "pct-013",
+    "invoiced_amount": 75606.75,
+    "currency": "EUR",
+    "invoice_date": "2026-03-03"
+  },
+  {
+    "invoice_id": "inv-034",
+    "supplier_id": "sup-horizon-ops",
+    "po_id": "po-034",
+    "procurement_contract_id": "pct-012",
+    "invoiced_amount": 80143.0,
+    "currency": "EUR",
+    "invoice_date": "2026-03-04"
+  },
+  {
+    "invoice_id": "inv-035",
+    "supplier_id": "sup-mapleleaf-digital",
+    "po_id": "po-035",
+    "procurement_contract_id": null,
+    "invoiced_amount": 71377.5,
+    "currency": "EUR",
+    "invoice_date": "2026-03-05"
+  },
+  {
+    "invoice_id": "inv-036",
+    "supplier_id": "sup-riverstone-tech",
+    "po_id": null,
+    "procurement_contract_id": "pct-014",
+    "invoiced_amount": 75849.0,
+    "currency": "EUR",
+    "invoice_date": "2026-03-06"
+  },
+  {
+    "invoice_id": "inv-037",
+    "supplier_id": "sup-mapleleaf-digital",
+    "po_id": "po-037",
+    "procurement_contract_id": "pct-013",
+    "invoiced_amount": 80450.0,
+    "currency": "EUR",
+    "invoice_date": "2026-03-07"
+  },
+  {
+    "invoice_id": "inv-038",
+    "supplier_id": "sup-riverstone-tech",
+    "po_id": "po-038",
+    "procurement_contract_id": "pct-014",
+    "invoiced_amount": 85180.5,
+    "currency": "EUR",
+    "invoice_date": "2026-03-08"
+  },
+  {
+    "invoice_id": "inv-039",
+    "supplier_id": "sup-nimbus-partners",
+    "po_id": "po-039",
+    "procurement_contract_id": "pct-015",
+    "invoiced_amount": 90040.5,
+    "currency": "EUR",
+    "invoice_date": "2026-03-09"
+  },
+  {
+    "invoice_id": "inv-040",
+    "supplier_id": "sup-riverstone-tech",
+    "po_id": "po-040",
+    "procurement_contract_id": "pct-014",
+    "invoiced_amount": 79980.0,
+    "currency": "EUR",
+    "invoice_date": "2026-03-10"
+  }
+]

@@ -1,0 +1,8 @@
+Synthetic Contract Document for ctr-005
+
+Supplier: sup-redwood-advisory
+Contract Type: SOW
+
+offshore_delivery: Offshore delivery is not permitted without a formal contract amendment.
+data_residency: No special data residency restriction applies beyond standard policy.
+customer_approval: No additional customer approval is required for location changes within approved supplier sites.

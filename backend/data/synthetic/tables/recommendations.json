@@ -1,0 +1,182 @@
+[
+  {
+    "recommendation_id": "rec-001",
+    "scenario_id": "scn-001",
+    "confidence_score": 0.87,
+    "compliance_summary": "Offshore permitted. EU PII must remain in approved EU-hosted workflows. Customer approval required.",
+    "risk_assessment": "Medium compliance risk pending formal customer approval.",
+    "rationale": "Keep leadership, architecture, and PII-handling work in Germany while moving eligible engineering work to India.",
+    "created_at": "2026-06-01T08:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-002",
+    "scenario_id": "scn-002",
+    "confidence_score": 0.8,
+    "compliance_summary": "Offshore permitted. No special residency restriction. Customer approval required.",
+    "risk_assessment": "Medium compliance risk pending formal customer approval.",
+    "rationale": "Retain critical coordination roles onshore and right-shore standard delivery work where the cost delta is attractive.",
+    "created_at": "2026-06-02T09:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-003",
+    "scenario_id": "scn-003",
+    "confidence_score": 0.83,
+    "compliance_summary": "Offshore permitted. Customer data classified as confidential must remain within designated regional delivery centers. No extra customer approval required.",
+    "risk_assessment": "Low delivery risk with credible savings potential.",
+    "rationale": "Retain critical coordination roles onshore and right-shore standard delivery work where the cost delta is attractive.",
+    "created_at": "2026-06-03T10:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-004",
+    "scenario_id": "scn-004",
+    "confidence_score": 0.83,
+    "compliance_summary": "Offshore permitted. EU PII must remain in approved EU-hosted workflows. Customer approval required.",
+    "risk_assessment": "Medium compliance risk pending formal customer approval.",
+    "rationale": "Shift routine engineering work to the target delivery hub while retaining leadership and high-context roles.",
+    "created_at": "2026-06-04T11:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-005",
+    "scenario_id": "scn-005",
+    "confidence_score": 0.88,
+    "compliance_summary": "Offshore restricted. No special residency restriction. No extra customer approval required.",
+    "risk_assessment": "High compliance risk due to offshore restriction; recommendation should default to retain.",
+    "rationale": "Shift routine engineering work to the target delivery hub while retaining leadership and high-context roles.",
+    "created_at": "2026-06-05T12:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-006",
+    "scenario_id": "scn-006",
+    "confidence_score": 0.76,
+    "compliance_summary": "Offshore permitted. No special residency restriction. Customer approval required.",
+    "risk_assessment": "Medium compliance risk pending formal customer approval.",
+    "rationale": "Retain critical coordination roles onshore and right-shore standard delivery work where the cost delta is attractive.",
+    "created_at": "2026-06-06T13:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-007",
+    "scenario_id": "scn-007",
+    "confidence_score": 0.79,
+    "compliance_summary": "Offshore permitted. Customer data classified as confidential must remain within designated regional delivery centers. No extra customer approval required.",
+    "risk_assessment": "Low delivery risk with credible savings potential.",
+    "rationale": "Retain critical coordination roles onshore and right-shore standard delivery work where the cost delta is attractive.",
+    "created_at": "2026-06-07T14:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-008",
+    "scenario_id": "scn-008",
+    "confidence_score": 0.79,
+    "compliance_summary": "Offshore permitted. EU PII must remain in approved EU-hosted workflows. Customer approval required.",
+    "risk_assessment": "Medium compliance risk pending formal customer approval.",
+    "rationale": "Shift routine engineering work to the target delivery hub while retaining leadership and high-context roles.",
+    "created_at": "2026-06-08T15:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-009",
+    "scenario_id": "scn-009",
+    "confidence_score": 0.84,
+    "compliance_summary": "Offshore permitted. No special residency restriction. No extra customer approval required.",
+    "risk_assessment": "Low delivery risk with credible savings potential.",
+    "rationale": "Shift routine engineering work to the target delivery hub while retaining leadership and high-context roles.",
+    "created_at": "2026-06-09T16:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-010",
+    "scenario_id": "scn-010",
+    "confidence_score": 0.84,
+    "compliance_summary": "Offshore restricted. No special residency restriction. Customer approval required.",
+    "risk_assessment": "High compliance risk due to offshore restriction; recommendation should default to retain.",
+    "rationale": "Shift routine engineering work to the target delivery hub while retaining leadership and high-context roles.",
+    "created_at": "2026-06-10T17:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-011",
+    "scenario_id": "scn-011",
+    "confidence_score": 0.87,
+    "compliance_summary": "Offshore permitted. Customer data classified as confidential must remain within designated regional delivery centers. No extra customer approval required.",
+    "risk_assessment": "Low delivery risk with credible savings potential.",
+    "rationale": "Retain critical coordination roles onshore and right-shore standard delivery work where the cost delta is attractive.",
+    "created_at": "2026-06-11T08:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-012",
+    "scenario_id": "scn-012",
+    "confidence_score": 0.75,
+    "compliance_summary": "Offshore permitted. EU PII must remain in approved EU-hosted workflows. Customer approval required.",
+    "risk_assessment": "Medium compliance risk pending formal customer approval.",
+    "rationale": "Shift routine engineering work to the target delivery hub while retaining leadership and high-context roles.",
+    "created_at": "2026-06-12T09:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-013",
+    "scenario_id": "scn-013",
+    "confidence_score": 0.8,
+    "compliance_summary": "Offshore permitted. No special residency restriction. No extra customer approval required.",
+    "risk_assessment": "Low delivery risk with credible savings potential.",
+    "rationale": "Shift routine engineering work to the target delivery hub while retaining leadership and high-context roles.",
+    "created_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-014",
+    "scenario_id": "scn-014",
+    "confidence_score": 0.8,
+    "compliance_summary": "Offshore permitted. No special residency restriction. Customer approval required.",
+    "risk_assessment": "Medium compliance risk pending formal customer approval.",
+    "rationale": "Shift routine engineering work to the target delivery hub while retaining leadership and high-context roles.",
+    "created_at": "2026-06-14T11:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-015",
+    "scenario_id": "scn-015",
+    "confidence_score": 0.83,
+    "compliance_summary": "Offshore restricted. Customer data classified as confidential must remain within designated regional delivery centers. No extra customer approval required.",
+    "risk_assessment": "High compliance risk due to offshore restriction; recommendation should default to retain.",
+    "rationale": "Shift routine engineering work to the target delivery hub while retaining leadership and high-context roles.",
+    "created_at": "2026-06-15T12:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-016",
+    "scenario_id": "scn-016",
+    "confidence_score": 0.83,
+    "compliance_summary": "Offshore permitted. EU PII must remain in approved EU-hosted workflows. Customer approval required.",
+    "risk_assessment": "Medium compliance risk pending formal customer approval.",
+    "rationale": "Shift routine engineering work to the target delivery hub while retaining leadership and high-context roles.",
+    "created_at": "2026-06-16T13:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-017",
+    "scenario_id": "scn-017",
+    "confidence_score": 0.88,
+    "compliance_summary": "Offshore permitted. No special residency restriction. No extra customer approval required.",
+    "risk_assessment": "Low delivery risk with credible savings potential.",
+    "rationale": "Shift routine engineering work to the target delivery hub while retaining leadership and high-context roles.",
+    "created_at": "2026-06-17T14:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-018",
+    "scenario_id": "scn-018",
+    "confidence_score": 0.76,
+    "compliance_summary": "Offshore permitted. No special residency restriction. Customer approval required.",
+    "risk_assessment": "Medium compliance risk pending formal customer approval.",
+    "rationale": "Shift routine engineering work to the target delivery hub while retaining leadership and high-context roles.",
+    "created_at": "2026-06-18T15:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-019",
+    "scenario_id": "scn-019",
+    "confidence_score": 0.79,
+    "compliance_summary": "Offshore permitted. Customer data classified as confidential must remain within designated regional delivery centers. No extra customer approval required.",
+    "risk_assessment": "Low delivery risk with credible savings potential.",
+    "rationale": "Shift routine engineering work to the target delivery hub while retaining leadership and high-context roles.",
+    "created_at": "2026-06-19T16:00:00Z"
+  },
+  {
+    "recommendation_id": "rec-020",
+    "scenario_id": "scn-020",
+    "confidence_score": 0.79,
+    "compliance_summary": "Offshore restricted. EU PII must remain in approved EU-hosted workflows. Customer approval required.",
+    "risk_assessment": "High compliance risk due to offshore restriction; recommendation should default to retain.",
+    "rationale": "Shift routine engineering work to the target delivery hub while retaining leadership and high-context roles.",
+    "created_at": "2026-06-20T17:00:00Z"
+  }
+]

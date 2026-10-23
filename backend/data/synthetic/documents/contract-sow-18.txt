@@ -1,0 +1,8 @@
+Synthetic Contract Document for ctr-018
+
+Supplier: sup-bridgepoint-logic
+Contract Type: MSA
+
+offshore_delivery: Offshore delivery is permitted for software engineering services under this agreement.
+data_residency: No special data residency restriction applies beyond standard policy.
+customer_approval: Written customer approval is required before shifting delivery activity to a new geography.

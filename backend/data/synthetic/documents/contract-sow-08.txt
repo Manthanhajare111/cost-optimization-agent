@@ -1,0 +1,8 @@
+Synthetic Contract Document for ctr-008
+
+Supplier: sup-sunline-digital
+Contract Type: Service Agreement
+
+offshore_delivery: Offshore delivery is permitted for software engineering services under this agreement.
+data_residency: EU PII must remain in approved EU-hosted workflows.
+customer_approval: Written customer approval is required before shifting delivery activity to a new geography.

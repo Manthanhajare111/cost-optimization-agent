@@ -1,0 +1,542 @@
+[
+  {
+    "po_id": "po-001",
+    "supplier_id": "sup-acme-global",
+    "category_id": "cat-it-services",
+    "business_unit": "Digital Banking",
+    "amount": 13850,
+    "currency": "EUR",
+    "order_date": "2026-01-01"
+  },
+  {
+    "po_id": "po-002",
+    "supplier_id": "sup-bluewave-tech",
+    "category_id": "cat-it-services",
+    "business_unit": "Retail Banking",
+    "amount": 15700,
+    "currency": "EUR",
+    "order_date": "2026-01-02"
+  },
+  {
+    "po_id": "po-003",
+    "supplier_id": "sup-northbridge-digital",
+    "category_id": "cat-it-services",
+    "business_unit": "Service Operations",
+    "amount": 17550,
+    "currency": "EUR",
+    "order_date": "2026-01-03"
+  },
+  {
+    "po_id": "po-004",
+    "supplier_id": "sup-bluewave-tech",
+    "category_id": "cat-consulting",
+    "business_unit": "Channels",
+    "amount": 19400,
+    "currency": "EUR",
+    "order_date": "2026-01-04"
+  },
+  {
+    "po_id": "po-005",
+    "supplier_id": "sup-northbridge-digital",
+    "category_id": "cat-consulting",
+    "business_unit": "Enterprise Data",
+    "amount": 21250,
+    "currency": "EUR",
+    "order_date": "2026-01-05"
+  },
+  {
+    "po_id": "po-006",
+    "supplier_id": "sup-eastgate-solutions",
+    "category_id": "cat-consulting",
+    "business_unit": "Cards",
+    "amount": 23100,
+    "currency": "EUR",
+    "order_date": "2026-01-06"
+  },
+  {
+    "po_id": "po-007",
+    "supplier_id": "sup-northbridge-digital",
+    "category_id": "cat-cloud-hosting",
+    "business_unit": "Risk",
+    "amount": 24950,
+    "currency": "EUR",
+    "order_date": "2026-01-07"
+  },
+  {
+    "po_id": "po-008",
+    "supplier_id": "sup-eastgate-solutions",
+    "category_id": "cat-cloud-hosting",
+    "business_unit": "Security",
+    "amount": 26800,
+    "currency": "EUR",
+    "order_date": "2026-01-08"
+  },
+  {
+    "po_id": "po-009",
+    "supplier_id": "sup-redwood-advisory",
+    "category_id": "cat-cloud-hosting",
+    "business_unit": "Lending",
+    "amount": 28650,
+    "currency": "EUR",
+    "order_date": "2026-01-09"
+  },
+  {
+    "po_id": "po-010",
+    "supplier_id": "sup-eastgate-solutions",
+    "category_id": "cat-managed-support",
+    "business_unit": "Infrastructure",
+    "amount": 30500,
+    "currency": "EUR",
+    "order_date": "2026-01-10"
+  },
+  {
+    "po_id": "po-011",
+    "supplier_id": "sup-redwood-advisory",
+    "category_id": "cat-managed-support",
+    "business_unit": "Engineering Excellence",
+    "amount": 32350,
+    "currency": "EUR",
+    "order_date": "2026-01-11"
+  },
+  {
+    "po_id": "po-012",
+    "supplier_id": "sup-orbit-systems",
+    "category_id": "cat-managed-support",
+    "business_unit": "Finance",
+    "amount": 34200,
+    "currency": "EUR",
+    "order_date": "2026-01-12"
+  },
+  {
+    "po_id": "po-013",
+    "supplier_id": "sup-redwood-advisory",
+    "category_id": "cat-software-testing",
+    "business_unit": "Architecture",
+    "amount": 36050,
+    "currency": "EUR",
+    "order_date": "2026-01-13"
+  },
+  {
+    "po_id": "po-014",
+    "supplier_id": "sup-orbit-systems",
+    "category_id": "cat-software-testing",
+    "business_unit": "Infrastructure",
+    "amount": 37900,
+    "currency": "EUR",
+    "order_date": "2026-01-14"
+  },
+  {
+    "po_id": "po-015",
+    "supplier_id": "sup-vertex-consulting",
+    "category_id": "cat-software-testing",
+    "business_unit": "CRM",
+    "amount": 39750,
+    "currency": "EUR",
+    "order_date": "2026-01-15"
+  },
+  {
+    "po_id": "po-016",
+    "supplier_id": "sup-orbit-systems",
+    "category_id": "cat-product-design",
+    "business_unit": "Middleware",
+    "amount": 41600,
+    "currency": "EUR",
+    "order_date": "2026-01-16"
+  },
+  {
+    "po_id": "po-017",
+    "supplier_id": "sup-vertex-consulting",
+    "category_id": "cat-product-design",
+    "business_unit": "Transformation",
+    "amount": 43450,
+    "currency": "EUR",
+    "order_date": "2026-01-17"
+  },
+  {
+    "po_id": "po-018",
+    "supplier_id": "sup-sunline-digital",
+    "category_id": "cat-product-design",
+    "business_unit": "Corporate Functions",
+    "amount": 45300,
+    "currency": "EUR",
+    "order_date": "2026-01-18"
+  },
+  {
+    "po_id": "po-019",
+    "supplier_id": "sup-vertex-consulting",
+    "category_id": "cat-cybersecurity",
+    "business_unit": "Treasury",
+    "amount": 47150,
+    "currency": "EUR",
+    "order_date": "2026-01-19"
+  },
+  {
+    "po_id": "po-020",
+    "supplier_id": "sup-sunline-digital",
+    "category_id": "cat-cybersecurity",
+    "business_unit": "Security",
+    "amount": 49000,
+    "currency": "EUR",
+    "order_date": "2026-01-20"
+  },
+  {
+    "po_id": "po-021",
+    "supplier_id": "sup-clearpath-it",
+    "category_id": "cat-cybersecurity",
+    "business_unit": "Digital Banking",
+    "amount": 50850,
+    "currency": "EUR",
+    "order_date": "2026-02-01"
+  },
+  {
+    "po_id": "po-022",
+    "supplier_id": "sup-sunline-digital",
+    "category_id": "cat-data-platforms",
+    "business_unit": "Retail Banking",
+    "amount": 52700,
+    "currency": "EUR",
+    "order_date": "2026-02-02"
+  },
+  {
+    "po_id": "po-023",
+    "supplier_id": "sup-clearpath-it",
+    "category_id": "cat-data-platforms",
+    "business_unit": "Service Operations",
+    "amount": 54550,
+    "currency": "EUR",
+    "order_date": "2026-02-03"
+  },
+  {
+    "po_id": "po-024",
+    "supplier_id": "sup-aurora-works",
+    "category_id": "cat-data-platforms",
+    "business_unit": "Channels",
+    "amount": 56400,
+    "currency": "EUR",
+    "order_date": "2026-02-04"
+  },
+  {
+    "po_id": "po-025",
+    "supplier_id": "sup-clearpath-it",
+    "category_id": "cat-integration-services",
+    "business_unit": "Enterprise Data",
+    "amount": 58250,
+    "currency": "EUR",
+    "order_date": "2026-02-05"
+  },
+  {
+    "po_id": "po-026",
+    "supplier_id": "sup-aurora-works",
+    "category_id": "cat-integration-services",
+    "business_unit": "Cards",
+    "amount": 60100,
+    "currency": "EUR",
+    "order_date": "2026-02-06"
+  },
+  {
+    "po_id": "po-027",
+    "supplier_id": "sup-polaris-labs",
+    "category_id": "cat-integration-services",
+    "business_unit": "Risk",
+    "amount": 61950,
+    "currency": "EUR",
+    "order_date": "2026-02-07"
+  },
+  {
+    "po_id": "po-028",
+    "supplier_id": "sup-aurora-works",
+    "category_id": "cat-mobile-engineering",
+    "business_unit": "Security",
+    "amount": 63800,
+    "currency": "EUR",
+    "order_date": "2026-02-08"
+  },
+  {
+    "po_id": "po-029",
+    "supplier_id": "sup-polaris-labs",
+    "category_id": "cat-mobile-engineering",
+    "business_unit": "Lending",
+    "amount": 65650,
+    "currency": "EUR",
+    "order_date": "2026-02-09"
+  },
+  {
+    "po_id": "po-030",
+    "supplier_id": "sup-horizon-ops",
+    "category_id": "cat-mobile-engineering",
+    "business_unit": "Infrastructure",
+    "amount": 67500,
+    "currency": "EUR",
+    "order_date": "2026-02-10"
+  },
+  {
+    "po_id": "po-031",
+    "supplier_id": "sup-polaris-labs",
+    "category_id": "cat-bpm-services",
+    "business_unit": "Engineering Excellence",
+    "amount": 69350,
+    "currency": "EUR",
+    "order_date": "2026-02-11"
+  },
+  {
+    "po_id": "po-032",
+    "supplier_id": "sup-horizon-ops",
+    "category_id": "cat-bpm-services",
+    "business_unit": "Finance",
+    "amount": 71200,
+    "currency": "EUR",
+    "order_date": "2026-02-12"
+  },
+  {
+    "po_id": "po-033",
+    "supplier_id": "sup-mapleleaf-digital",
+    "category_id": "cat-bpm-services",
+    "business_unit": "Architecture",
+    "amount": 73050,
+    "currency": "EUR",
+    "order_date": "2026-02-13"
+  },
+  {
+    "po_id": "po-034",
+    "supplier_id": "sup-horizon-ops",
+    "category_id": "cat-erp-services",
+    "business_unit": "Infrastructure",
+    "amount": 74900,
+    "currency": "EUR",
+    "order_date": "2026-02-14"
+  },
+  {
+    "po_id": "po-035",
+    "supplier_id": "sup-mapleleaf-digital",
+    "category_id": "cat-erp-services",
+    "business_unit": "CRM",
+    "amount": 76750,
+    "currency": "EUR",
+    "order_date": "2026-02-15"
+  },
+  {
+    "po_id": "po-036",
+    "supplier_id": "sup-riverstone-tech",
+    "category_id": "cat-erp-services",
+    "business_unit": "Middleware",
+    "amount": 78600,
+    "currency": "EUR",
+    "order_date": "2026-02-16"
+  },
+  {
+    "po_id": "po-037",
+    "supplier_id": "sup-mapleleaf-digital",
+    "category_id": "cat-observability-tools",
+    "business_unit": "Transformation",
+    "amount": 80450,
+    "currency": "EUR",
+    "order_date": "2026-02-17"
+  },
+  {
+    "po_id": "po-038",
+    "supplier_id": "sup-riverstone-tech",
+    "category_id": "cat-observability-tools",
+    "business_unit": "Corporate Functions",
+    "amount": 82300,
+    "currency": "EUR",
+    "order_date": "2026-02-18"
+  },
+  {
+    "po_id": "po-039",
+    "supplier_id": "sup-nimbus-partners",
+    "category_id": "cat-observability-tools",
+    "business_unit": "Treasury",
+    "amount": 84150,
+    "currency": "EUR",
+    "order_date": "2026-02-19"
+  },
+  {
+    "po_id": "po-040",
+    "supplier_id": "sup-riverstone-tech",
+    "category_id": "cat-service-desk",
+    "business_unit": "Security",
+    "amount": 86000,
+    "currency": "EUR",
+    "order_date": "2026-02-20"
+  },
+  {
+    "po_id": "po-041",
+    "supplier_id": "sup-nimbus-partners",
+    "category_id": "cat-service-desk",
+    "business_unit": "Digital Banking",
+    "amount": 87850,
+    "currency": "EUR",
+    "order_date": "2026-03-01"
+  },
+  {
+    "po_id": "po-042",
+    "supplier_id": "sup-zenbyte-services",
+    "category_id": "cat-service-desk",
+    "business_unit": "Retail Banking",
+    "amount": 89700,
+    "currency": "EUR",
+    "order_date": "2026-03-02"
+  },
+  {
+    "po_id": "po-043",
+    "supplier_id": "sup-nimbus-partners",
+    "category_id": "cat-analytics-advisory",
+    "business_unit": "Service Operations",
+    "amount": 91550,
+    "currency": "EUR",
+    "order_date": "2026-03-03"
+  },
+  {
+    "po_id": "po-044",
+    "supplier_id": "sup-zenbyte-services",
+    "category_id": "cat-analytics-advisory",
+    "business_unit": "Channels",
+    "amount": 93400,
+    "currency": "EUR",
+    "order_date": "2026-03-04"
+  },
+  {
+    "po_id": "po-045",
+    "supplier_id": "sup-silveroak-global",
+    "category_id": "cat-analytics-advisory",
+    "business_unit": "Enterprise Data",
+    "amount": 95250,
+    "currency": "EUR",
+    "order_date": "2026-03-05"
+  },
+  {
+    "po_id": "po-046",
+    "supplier_id": "sup-zenbyte-services",
+    "category_id": "cat-network-operations",
+    "business_unit": "Cards",
+    "amount": 97100,
+    "currency": "EUR",
+    "order_date": "2026-03-06"
+  },
+  {
+    "po_id": "po-047",
+    "supplier_id": "sup-silveroak-global",
+    "category_id": "cat-network-operations",
+    "business_unit": "Risk",
+    "amount": 98950,
+    "currency": "EUR",
+    "order_date": "2026-03-07"
+  },
+  {
+    "po_id": "po-048",
+    "supplier_id": "sup-bridgepoint-logic",
+    "category_id": "cat-network-operations",
+    "business_unit": "Security",
+    "amount": 100800,
+    "currency": "EUR",
+    "order_date": "2026-03-08"
+  },
+  {
+    "po_id": "po-049",
+    "supplier_id": "sup-silveroak-global",
+    "category_id": "cat-shared-delivery",
+    "business_unit": "Lending",
+    "amount": 102650,
+    "currency": "EUR",
+    "order_date": "2026-03-09"
+  },
+  {
+    "po_id": "po-050",
+    "supplier_id": "sup-bridgepoint-logic",
+    "category_id": "cat-shared-delivery",
+    "business_unit": "Infrastructure",
+    "amount": 104500,
+    "currency": "EUR",
+    "order_date": "2026-03-10"
+  },
+  {
+    "po_id": "po-051",
+    "supplier_id": "sup-cedarwave-tech",
+    "category_id": "cat-shared-delivery",
+    "business_unit": "Engineering Excellence",
+    "amount": 106350,
+    "currency": "EUR",
+    "order_date": "2026-03-11"
+  },
+  {
+    "po_id": "po-052",
+    "supplier_id": "sup-bridgepoint-logic",
+    "category_id": "cat-supplier-transition",
+    "business_unit": "Finance",
+    "amount": 108200,
+    "currency": "EUR",
+    "order_date": "2026-03-12"
+  },
+  {
+    "po_id": "po-053",
+    "supplier_id": "sup-cedarwave-tech",
+    "category_id": "cat-supplier-transition",
+    "business_unit": "Architecture",
+    "amount": 110050,
+    "currency": "EUR",
+    "order_date": "2026-03-13"
+  },
+  {
+    "po_id": "po-054",
+    "supplier_id": "sup-tristar-solutions",
+    "category_id": "cat-supplier-transition",
+    "business_unit": "Infrastructure",
+    "amount": 111900,
+    "currency": "EUR",
+    "order_date": "2026-03-14"
+  },
+  {
+    "po_id": "po-055",
+    "supplier_id": "sup-cedarwave-tech",
+    "category_id": "cat-devops-services",
+    "business_unit": "CRM",
+    "amount": 113750,
+    "currency": "EUR",
+    "order_date": "2026-03-15"
+  },
+  {
+    "po_id": "po-056",
+    "supplier_id": "sup-tristar-solutions",
+    "category_id": "cat-devops-services",
+    "business_unit": "Middleware",
+    "amount": 115600,
+    "currency": "EUR",
+    "order_date": "2026-03-16"
+  },
+  {
+    "po_id": "po-057",
+    "supplier_id": "sup-acme-global",
+    "category_id": "cat-devops-services",
+    "business_unit": "Transformation",
+    "amount": 117450,
+    "currency": "EUR",
+    "order_date": "2026-03-17"
+  },
+  {
+    "po_id": "po-058",
+    "supplier_id": "sup-tristar-solutions",
+    "category_id": "cat-reporting-services",
+    "business_unit": "Corporate Functions",
+    "amount": 119300,
+    "currency": "EUR",
+    "order_date": "2026-03-18"
+  },
+  {
+    "po_id": "po-059",
+    "supplier_id": "sup-acme-global",
+    "category_id": "cat-reporting-services",
+    "business_unit": "Treasury",
+    "amount": 121150,
+    "currency": "EUR",
+    "order_date": "2026-03-19"
+  },
+  {
+    "po_id": "po-060",
+    "supplier_id": "sup-bluewave-tech",
+    "category_id": "cat-reporting-services",
+    "business_unit": "Security",
+    "amount": 123000,
+    "currency": "EUR",
+    "order_date": "2026-03-20"
+  }
+]

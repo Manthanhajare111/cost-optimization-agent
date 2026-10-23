@@ -1,0 +1,142 @@
+[
+  {
+    "location_id": "loc-germany",
+    "country": "Germany",
+    "region": "EMEA",
+    "cost_index": 1.0,
+    "is_offshore": false
+  },
+  {
+    "location_id": "loc-india",
+    "country": "India",
+    "region": "APAC",
+    "cost_index": 0.58,
+    "is_offshore": true
+  },
+  {
+    "location_id": "loc-poland",
+    "country": "Poland",
+    "region": "EMEA",
+    "cost_index": 0.74,
+    "is_offshore": false
+  },
+  {
+    "location_id": "loc-romania",
+    "country": "Romania",
+    "region": "EMEA",
+    "cost_index": 0.69,
+    "is_offshore": false
+  },
+  {
+    "location_id": "loc-portugal",
+    "country": "Portugal",
+    "region": "EMEA",
+    "cost_index": 0.76,
+    "is_offshore": false
+  },
+  {
+    "location_id": "loc-uk",
+    "country": "United Kingdom",
+    "region": "EMEA",
+    "cost_index": 0.98,
+    "is_offshore": false
+  },
+  {
+    "location_id": "loc-usa",
+    "country": "United States",
+    "region": "Americas",
+    "cost_index": 1.08,
+    "is_offshore": false
+  },
+  {
+    "location_id": "loc-canada",
+    "country": "Canada",
+    "region": "Americas",
+    "cost_index": 0.95,
+    "is_offshore": false
+  },
+  {
+    "location_id": "loc-mexico",
+    "country": "Mexico",
+    "region": "Americas",
+    "cost_index": 0.63,
+    "is_offshore": true
+  },
+  {
+    "location_id": "loc-brazil",
+    "country": "Brazil",
+    "region": "Americas",
+    "cost_index": 0.66,
+    "is_offshore": true
+  },
+  {
+    "location_id": "loc-south-africa",
+    "country": "South Africa",
+    "region": "EMEA",
+    "cost_index": 0.61,
+    "is_offshore": true
+  },
+  {
+    "location_id": "loc-egypt",
+    "country": "Egypt",
+    "region": "EMEA",
+    "cost_index": 0.57,
+    "is_offshore": true
+  },
+  {
+    "location_id": "loc-uae",
+    "country": "United Arab Emirates",
+    "region": "EMEA",
+    "cost_index": 0.88,
+    "is_offshore": false
+  },
+  {
+    "location_id": "loc-singapore",
+    "country": "Singapore",
+    "region": "APAC",
+    "cost_index": 0.93,
+    "is_offshore": false
+  },
+  {
+    "location_id": "loc-vietnam",
+    "country": "Vietnam",
+    "region": "APAC",
+    "cost_index": 0.49,
+    "is_offshore": true
+  },
+  {
+    "location_id": "loc-philippines",
+    "country": "Philippines",
+    "region": "APAC",
+    "cost_index": 0.52,
+    "is_offshore": true
+  },
+  {
+    "location_id": "loc-malaysia",
+    "country": "Malaysia",
+    "region": "APAC",
+    "cost_index": 0.55,
+    "is_offshore": true
+  },
+  {
+    "location_id": "loc-australia",
+    "country": "Australia",
+    "region": "APAC",
+    "cost_index": 1.02,
+    "is_offshore": false
+  },
+  {
+    "location_id": "loc-ireland",
+    "country": "Ireland",
+    "region": "EMEA",
+    "cost_index": 0.96,
+    "is_offshore": false
+  },
+  {
+    "location_id": "loc-netherlands",
+    "country": "Netherlands",
+    "region": "EMEA",
+    "cost_index": 0.97,
+    "is_offshore": false
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "user_id": "user-001",
+    "email": "user01@costopt.local",
+    "role": "admin"
+  },
+  {
+    "user_id": "user-002",
+    "email": "user02@costopt.local",
+    "role": "analyst"
+  },
+  {
+    "user_id": "user-003",
+    "email": "user03@costopt.local",
+    "role": "procurement_manager"
+  },
+  {
+    "user_id": "user-004",
+    "email": "user04@costopt.local",
+    "role": "legal_reviewer"
+  },
+  {
+    "user_id": "user-005",
+    "email": "user05@costopt.local",
+    "role": "readonly"
+  },
+  {
+    "user_id": "user-006",
+    "email": "user06@costopt.local",
+    "role": "admin"
+  },
+  {
+    "user_id": "user-007",
+    "email": "user07@costopt.local",
+    "role": "analyst"
+  },
+  {
+    "user_id": "user-008",
+    "email": "user08@costopt.local",
+    "role": "procurement_manager"
+  },
+  {
+    "user_id": "user-009",
+    "email": "user09@costopt.local",
+    "role": "legal_reviewer"
+  },
+  {
+    "user_id": "user-010",
+    "email": "user10@costopt.local",
+    "role": "readonly"
+  },
+  {
+    "user_id": "user-011",
+    "email": "user11@costopt.local",
+    "role": "admin"
+  },
+  {
+    "user_id": "user-012",
+    "email": "user12@costopt.local",
+    "role": "analyst"
+  },
+  {
+    "user_id": "user-013",
+    "email": "user13@costopt.local",
+    "role": "procurement_manager"
+  },
+  {
+    "user_id": "user-014",
+    "email": "user14@costopt.local",
+    "role": "legal_reviewer"
+  },
+  {
+    "user_id": "user-015",
+    "email": "user15@costopt.local",
+    "role": "readonly"
+  },
+  {
+    "user_id": "user-016",
+    "email": "user16@costopt.local",
+    "role": "admin"
+  },
+  {
+    "user_id": "user-017",
+    "email": "user17@costopt.local",
+    "role": "analyst"
+  },
+  {
+    "user_id": "user-018",
+    "email": "user18@costopt.local",
+    "role": "procurement_manager"
+  },
+  {
+    "user_id": "user-019",
+    "email": "user19@costopt.local",
+    "role": "legal_reviewer"
+  },
+  {
+    "user_id": "user-020",
+    "email": "user20@costopt.local",
+    "role": "readonly"
+  }
+]

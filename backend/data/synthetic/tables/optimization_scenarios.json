@@ -1,0 +1,362 @@
+[
+  {
+    "scenario_id": "scn-001",
+    "squad_id": "squad-payments-platform",
+    "target_location_id": "loc-india",
+    "baseline_cost": 142061.4,
+    "future_cost": 93490.8,
+    "monthly_savings": 48570.6,
+    "annual_savings": 582847.2,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Germany to India right-shoring",
+      "current_location_id": "loc-germany"
+    },
+    "created_at": "2026-06-01T08:00:00Z"
+  },
+  {
+    "scenario_id": "scn-002",
+    "squad_id": "squad-core-banking-qa",
+    "target_location_id": "loc-poland",
+    "baseline_cost": 96150,
+    "future_cost": 72112.5,
+    "monthly_savings": 24037.5,
+    "annual_savings": 288450.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Core Banking QA Squad to loc-poland scenario",
+      "current_location_id": "loc-germany"
+    },
+    "created_at": "2026-06-02T09:00:00Z"
+  },
+  {
+    "scenario_id": "scn-003",
+    "squad_id": "squad-global-support",
+    "target_location_id": "loc-philippines",
+    "baseline_cost": 100975,
+    "future_cost": 79770.25,
+    "monthly_savings": 21204.75,
+    "annual_savings": 254457.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Global Support Pod to loc-philippines scenario",
+      "current_location_id": "loc-poland"
+    },
+    "created_at": "2026-06-03T10:00:00Z"
+  },
+  {
+    "scenario_id": "scn-004",
+    "squad_id": "squad-mobile-app",
+    "target_location_id": "loc-vietnam",
+    "baseline_cost": 105800,
+    "future_cost": 70886.0,
+    "monthly_savings": 34914.0,
+    "annual_savings": 418968.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Mobile App Squad to loc-vietnam scenario",
+      "current_location_id": "loc-uk"
+    },
+    "created_at": "2026-06-04T11:00:00Z"
+  },
+  {
+    "scenario_id": "scn-005",
+    "squad_id": "squad-data-foundation",
+    "target_location_id": "loc-romania",
+    "baseline_cost": 110625,
+    "future_cost": 78543.75,
+    "monthly_savings": 32081.25,
+    "annual_savings": 384975.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Data Foundation Squad to loc-romania scenario",
+      "current_location_id": "loc-usa"
+    },
+    "created_at": "2026-06-05T12:00:00Z"
+  },
+  {
+    "scenario_id": "scn-006",
+    "squad_id": "squad-card-services",
+    "target_location_id": "loc-india",
+    "baseline_cost": 115450,
+    "future_cost": 86587.5,
+    "monthly_savings": 28862.5,
+    "annual_savings": 346350.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Card Services Squad to loc-india scenario",
+      "current_location_id": "loc-canada"
+    },
+    "created_at": "2026-06-06T13:00:00Z"
+  },
+  {
+    "scenario_id": "scn-007",
+    "squad_id": "squad-risk-analytics",
+    "target_location_id": "loc-poland",
+    "baseline_cost": 120275,
+    "future_cost": 95017.25,
+    "monthly_savings": 25257.75,
+    "annual_savings": 303093.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Risk Analytics Squad to loc-poland scenario",
+      "current_location_id": "loc-portugal"
+    },
+    "created_at": "2026-06-07T14:00:00Z"
+  },
+  {
+    "scenario_id": "scn-008",
+    "squad_id": "squad-fraud-monitoring",
+    "target_location_id": "loc-philippines",
+    "baseline_cost": 125100,
+    "future_cost": 83817.0,
+    "monthly_savings": 41283.0,
+    "annual_savings": 495396.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Fraud Monitoring Pod to loc-philippines scenario",
+      "current_location_id": "loc-ireland"
+    },
+    "created_at": "2026-06-08T15:00:00Z"
+  },
+  {
+    "scenario_id": "scn-009",
+    "squad_id": "squad-loans-origination",
+    "target_location_id": "loc-vietnam",
+    "baseline_cost": 129925,
+    "future_cost": 92246.75,
+    "monthly_savings": 37678.25,
+    "annual_savings": 452139.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Loans Origination Squad to loc-vietnam scenario",
+      "current_location_id": "loc-netherlands"
+    },
+    "created_at": "2026-06-09T16:00:00Z"
+  },
+  {
+    "scenario_id": "scn-010",
+    "squad_id": "squad-kafka-platform",
+    "target_location_id": "loc-romania",
+    "baseline_cost": 134750,
+    "future_cost": 101062.5,
+    "monthly_savings": 33687.5,
+    "annual_savings": 404250.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Kafka Platform Squad to loc-romania scenario",
+      "current_location_id": "loc-singapore"
+    },
+    "created_at": "2026-06-10T17:00:00Z"
+  },
+  {
+    "scenario_id": "scn-011",
+    "squad_id": "squad-qa-automation",
+    "target_location_id": "loc-india",
+    "baseline_cost": 139575,
+    "future_cost": 110264.25,
+    "monthly_savings": 29310.75,
+    "annual_savings": 351729.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "QA Automation Guild to loc-india scenario",
+      "current_location_id": "loc-australia"
+    },
+    "created_at": "2026-06-11T08:00:00Z"
+  },
+  {
+    "scenario_id": "scn-012",
+    "squad_id": "squad-reg-reporting",
+    "target_location_id": "loc-poland",
+    "baseline_cost": 144400,
+    "future_cost": 96748.0,
+    "monthly_savings": 47652.0,
+    "annual_savings": 571824.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Regulatory Reporting Team to loc-poland scenario",
+      "current_location_id": "loc-germany"
+    },
+    "created_at": "2026-06-12T09:00:00Z"
+  },
+  {
+    "scenario_id": "scn-013",
+    "squad_id": "squad-api-gateway",
+    "target_location_id": "loc-philippines",
+    "baseline_cost": 149225,
+    "future_cost": 105949.75,
+    "monthly_savings": 43275.25,
+    "annual_savings": 519303.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "API Gateway Squad to loc-philippines scenario",
+      "current_location_id": "loc-poland"
+    },
+    "created_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "scenario_id": "scn-014",
+    "squad_id": "squad-observability",
+    "target_location_id": "loc-vietnam",
+    "baseline_cost": 154050,
+    "future_cost": 115537.5,
+    "monthly_savings": 38512.5,
+    "annual_savings": 462150.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Observability Pod to loc-vietnam scenario",
+      "current_location_id": "loc-uk"
+    },
+    "created_at": "2026-06-14T11:00:00Z"
+  },
+  {
+    "scenario_id": "scn-015",
+    "squad_id": "squad-customer-360",
+    "target_location_id": "loc-romania",
+    "baseline_cost": 158875,
+    "future_cost": 125511.25,
+    "monthly_savings": 33363.75,
+    "annual_savings": 400365.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Customer 360 Team to loc-romania scenario",
+      "current_location_id": "loc-usa"
+    },
+    "created_at": "2026-06-15T12:00:00Z"
+  },
+  {
+    "scenario_id": "scn-016",
+    "squad_id": "squad-integration-hub",
+    "target_location_id": "loc-india",
+    "baseline_cost": 163700,
+    "future_cost": 109679.0,
+    "monthly_savings": 54021.0,
+    "annual_savings": 648252.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Integration Hub Squad to loc-india scenario",
+      "current_location_id": "loc-canada"
+    },
+    "created_at": "2026-06-16T13:00:00Z"
+  },
+  {
+    "scenario_id": "scn-017",
+    "squad_id": "squad-cloud-migration",
+    "target_location_id": "loc-poland",
+    "baseline_cost": 168525,
+    "future_cost": 119652.75,
+    "monthly_savings": 48872.25,
+    "annual_savings": 586467.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Cloud Migration Factory to loc-poland scenario",
+      "current_location_id": "loc-portugal"
+    },
+    "created_at": "2026-06-17T14:00:00Z"
+  },
+  {
+    "scenario_id": "scn-018",
+    "squad_id": "squad-procurement-ops",
+    "target_location_id": "loc-philippines",
+    "baseline_cost": 173350,
+    "future_cost": 130012.5,
+    "monthly_savings": 43337.5,
+    "annual_savings": 520050.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Procurement Ops Squad to loc-philippines scenario",
+      "current_location_id": "loc-ireland"
+    },
+    "created_at": "2026-06-18T15:00:00Z"
+  },
+  {
+    "scenario_id": "scn-019",
+    "squad_id": "squad-treasury-tech",
+    "target_location_id": "loc-vietnam",
+    "baseline_cost": 178175,
+    "future_cost": 140758.25,
+    "monthly_savings": 37416.75,
+    "annual_savings": 449001.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Treasury Tech Squad to loc-vietnam scenario",
+      "current_location_id": "loc-netherlands"
+    },
+    "created_at": "2026-06-19T16:00:00Z"
+  },
+  {
+    "scenario_id": "scn-020",
+    "squad_id": "squad-identity-platform",
+    "target_location_id": "loc-romania",
+    "baseline_cost": 183000,
+    "future_cost": 122610.0,
+    "monthly_savings": 60390.0,
+    "annual_savings": 724680.0,
+    "assumptions": {
+      "currency": "EUR",
+      "billing_units_per_month": 10.14,
+      "human_approval_required": true,
+      "seeded_on": "2026-08-28",
+      "scenario_name": "Identity Platform Squad to loc-romania scenario",
+      "current_location_id": "loc-singapore"
+    },
+    "created_at": "2026-06-20T17:00:00Z"
+  }
+]

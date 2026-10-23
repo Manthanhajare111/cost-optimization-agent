@@ -1,0 +1,202 @@
+[
+  {
+    "proc_recommendation_id": "prec-001",
+    "use_case": "TAIL_SPEND",
+    "estimated_savings": 85000,
+    "currency": "EUR",
+    "confidence_score": 0.79,
+    "rationale": "Consolidate fragmented low-value spend under preferred suppliers to improve leverage and governance.",
+    "risk_assessment": "Low commercial risk with moderate change-management effort.",
+    "created_at": "2026-06-01T08:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-002",
+    "use_case": "INVOICE_VARIANCE",
+    "estimated_savings": 99500,
+    "currency": "EUR",
+    "confidence_score": 0.82,
+    "rationale": "Flag invoice amounts that exceed expected contract or purchase-order ranges before payment.",
+    "risk_assessment": "Low compliance risk and high financial-control value.",
+    "created_at": "2026-06-02T09:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-003",
+    "use_case": "DUPLICATE_SERVICE",
+    "estimated_savings": 114000,
+    "currency": "EUR",
+    "confidence_score": 0.85,
+    "rationale": "Collapse overlapping service buys into enterprise-wide agreements for better pricing.",
+    "risk_assessment": "Medium coordination risk across business units.",
+    "created_at": "2026-06-03T10:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-004",
+    "use_case": "RATE_BENCHMARK",
+    "estimated_savings": 128500,
+    "currency": "EUR",
+    "confidence_score": 0.88,
+    "rationale": "Use benchmark comparisons to prioritize overpriced supplier contracts for renegotiation.",
+    "risk_assessment": "Medium supplier-relationship risk during renegotiation.",
+    "created_at": "2026-06-04T11:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-005",
+    "use_case": "SUPPLIER_CONSOLIDATION",
+    "estimated_savings": 143000,
+    "currency": "EUR",
+    "confidence_score": 0.91,
+    "rationale": "Concentrate spend with stronger strategic suppliers to reduce fragmentation and improve rates.",
+    "risk_assessment": "Medium transition risk due to supplier offboarding and knowledge transfer.",
+    "created_at": "2026-06-05T12:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-006",
+    "use_case": "TAIL_SPEND",
+    "estimated_savings": 157500,
+    "currency": "EUR",
+    "confidence_score": 0.79,
+    "rationale": "Consolidate fragmented low-value spend under preferred suppliers to improve leverage and governance.",
+    "risk_assessment": "Low commercial risk with moderate change-management effort.",
+    "created_at": "2026-06-06T13:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-007",
+    "use_case": "INVOICE_VARIANCE",
+    "estimated_savings": 172000,
+    "currency": "EUR",
+    "confidence_score": 0.82,
+    "rationale": "Flag invoice amounts that exceed expected contract or purchase-order ranges before payment.",
+    "risk_assessment": "Low compliance risk and high financial-control value.",
+    "created_at": "2026-06-07T14:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-008",
+    "use_case": "DUPLICATE_SERVICE",
+    "estimated_savings": 186500,
+    "currency": "EUR",
+    "confidence_score": 0.85,
+    "rationale": "Collapse overlapping service buys into enterprise-wide agreements for better pricing.",
+    "risk_assessment": "Medium coordination risk across business units.",
+    "created_at": "2026-06-08T15:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-009",
+    "use_case": "RATE_BENCHMARK",
+    "estimated_savings": 201000,
+    "currency": "EUR",
+    "confidence_score": 0.88,
+    "rationale": "Use benchmark comparisons to prioritize overpriced supplier contracts for renegotiation.",
+    "risk_assessment": "Medium supplier-relationship risk during renegotiation.",
+    "created_at": "2026-06-09T16:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-010",
+    "use_case": "SUPPLIER_CONSOLIDATION",
+    "estimated_savings": 215500,
+    "currency": "EUR",
+    "confidence_score": 0.91,
+    "rationale": "Concentrate spend with stronger strategic suppliers to reduce fragmentation and improve rates.",
+    "risk_assessment": "Medium transition risk due to supplier offboarding and knowledge transfer.",
+    "created_at": "2026-06-10T17:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-011",
+    "use_case": "TAIL_SPEND",
+    "estimated_savings": 230000,
+    "currency": "EUR",
+    "confidence_score": 0.79,
+    "rationale": "Consolidate fragmented low-value spend under preferred suppliers to improve leverage and governance.",
+    "risk_assessment": "Low commercial risk with moderate change-management effort.",
+    "created_at": "2026-06-11T08:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-012",
+    "use_case": "INVOICE_VARIANCE",
+    "estimated_savings": 244500,
+    "currency": "EUR",
+    "confidence_score": 0.82,
+    "rationale": "Flag invoice amounts that exceed expected contract or purchase-order ranges before payment.",
+    "risk_assessment": "Low compliance risk and high financial-control value.",
+    "created_at": "2026-06-12T09:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-013",
+    "use_case": "DUPLICATE_SERVICE",
+    "estimated_savings": 259000,
+    "currency": "EUR",
+    "confidence_score": 0.85,
+    "rationale": "Collapse overlapping service buys into enterprise-wide agreements for better pricing.",
+    "risk_assessment": "Medium coordination risk across business units.",
+    "created_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-014",
+    "use_case": "RATE_BENCHMARK",
+    "estimated_savings": 273500,
+    "currency": "EUR",
+    "confidence_score": 0.88,
+    "rationale": "Use benchmark comparisons to prioritize overpriced supplier contracts for renegotiation.",
+    "risk_assessment": "Medium supplier-relationship risk during renegotiation.",
+    "created_at": "2026-06-14T11:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-015",
+    "use_case": "SUPPLIER_CONSOLIDATION",
+    "estimated_savings": 288000,
+    "currency": "EUR",
+    "confidence_score": 0.91,
+    "rationale": "Concentrate spend with stronger strategic suppliers to reduce fragmentation and improve rates.",
+    "risk_assessment": "Medium transition risk due to supplier offboarding and knowledge transfer.",
+    "created_at": "2026-06-15T12:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-016",
+    "use_case": "TAIL_SPEND",
+    "estimated_savings": 302500,
+    "currency": "EUR",
+    "confidence_score": 0.79,
+    "rationale": "Consolidate fragmented low-value spend under preferred suppliers to improve leverage and governance.",
+    "risk_assessment": "Low commercial risk with moderate change-management effort.",
+    "created_at": "2026-06-16T13:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-017",
+    "use_case": "INVOICE_VARIANCE",
+    "estimated_savings": 317000,
+    "currency": "EUR",
+    "confidence_score": 0.82,
+    "rationale": "Flag invoice amounts that exceed expected contract or purchase-order ranges before payment.",
+    "risk_assessment": "Low compliance risk and high financial-control value.",
+    "created_at": "2026-06-17T14:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-018",
+    "use_case": "DUPLICATE_SERVICE",
+    "estimated_savings": 331500,
+    "currency": "EUR",
+    "confidence_score": 0.85,
+    "rationale": "Collapse overlapping service buys into enterprise-wide agreements for better pricing.",
+    "risk_assessment": "Medium coordination risk across business units.",
+    "created_at": "2026-06-18T15:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-019",
+    "use_case": "RATE_BENCHMARK",
+    "estimated_savings": 346000,
+    "currency": "EUR",
+    "confidence_score": 0.88,
+    "rationale": "Use benchmark comparisons to prioritize overpriced supplier contracts for renegotiation.",
+    "risk_assessment": "Medium supplier-relationship risk during renegotiation.",
+    "created_at": "2026-06-19T16:00:00Z"
+  },
+  {
+    "proc_recommendation_id": "prec-020",
+    "use_case": "SUPPLIER_CONSOLIDATION",
+    "estimated_savings": 360500,
+    "currency": "EUR",
+    "confidence_score": 0.91,
+    "rationale": "Concentrate spend with stronger strategic suppliers to reduce fragmentation and improve rates.",
+    "risk_assessment": "Medium transition risk due to supplier offboarding and knowledge transfer.",
+    "created_at": "2026-06-20T17:00:00Z"
+  }
+]

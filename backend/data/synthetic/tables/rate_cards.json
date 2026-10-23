@@ -1,0 +1,4002 @@
+[
+  {
+    "rate_card_id": "rc-001",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1200.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-002",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 1050.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-003",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 900.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-004",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 679.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-005",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 601.4,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-006",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 760.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-007",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 680.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-008",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 397.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-009",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 393.82,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-010",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 348.81,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-011",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 861.36,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-012",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 753.69,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-013",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 646.02,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-014",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 502.46,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-015",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 445.04,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-016",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 605.28,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-017",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 529.62,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-018",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 453.96,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-019",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 353.08,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-020",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 312.73,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-021",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 570.36,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-022",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 499.06,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-023",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 427.77,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-024",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 332.71,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-025",
+    "supplier_id": "sup-acme-global",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 294.69,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-026",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1200.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-027",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 1050.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-028",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 900.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-029",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 700.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-030",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 620.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-031",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 696.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-032",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 609.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-033",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 522.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-034",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 406.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-035",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 359.6,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-036",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 888.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-037",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 777.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-038",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 666.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-039",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 518.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-040",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 458.8,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-041",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 624.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-042",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 546.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-043",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 468.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-044",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 364.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-045",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 322.4,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-046",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 588.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-047",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 514.5,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-048",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 441.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-049",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 343.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-050",
+    "supplier_id": "sup-bluewave-tech",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 303.8,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-051",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1236.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-052",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 1081.5,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-053",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 927.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-054",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 721.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-055",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 638.6,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-056",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 716.88,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-057",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 627.27,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-058",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 537.66,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-059",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 418.18,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-060",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 370.39,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-061",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 914.64,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-062",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 800.31,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-063",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 685.98,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-064",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 533.54,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-065",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 472.56,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-066",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 642.72,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-067",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 562.38,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-068",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 482.04,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-069",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 374.92,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-070",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 332.07,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-071",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 605.64,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-072",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 529.94,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-073",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 454.23,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-074",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 353.29,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-075",
+    "supplier_id": "sup-northbridge-digital",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 312.91,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-076",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1272.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-077",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 1113.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-078",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 954.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-079",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 742.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-080",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 657.2,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-081",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 737.76,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-082",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 645.54,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-083",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 553.32,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-084",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 430.36,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-085",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 381.18,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-086",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 941.28,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-087",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 823.62,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-088",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 705.96,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-089",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 549.08,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-090",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 486.33,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-091",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 661.44,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-092",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 578.76,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-093",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 496.08,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-094",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 385.84,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-095",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 341.74,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-096",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 623.28,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-097",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 545.37,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-098",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 467.46,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-099",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 363.58,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-100",
+    "supplier_id": "sup-eastgate-solutions",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 322.03,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-101",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1128.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-102",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 987.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-103",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 846.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-104",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 658.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-105",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 582.8,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-106",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 654.24,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-107",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 572.46,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-108",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 490.68,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-109",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 381.64,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-110",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 338.02,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-111",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 834.72,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-112",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 730.38,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-113",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 626.04,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-114",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 486.92,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-115",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 431.27,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-116",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 586.56,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-117",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 513.24,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-118",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 439.92,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-119",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 342.16,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-120",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 303.06,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-121",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 552.72,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-122",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 483.63,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-123",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 414.54,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-124",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 322.42,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-125",
+    "supplier_id": "sup-redwood-advisory",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 285.57,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-126",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1164.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-127",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 1018.5,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-128",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 873.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-129",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 679.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-130",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 601.4,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-131",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 675.12,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-132",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 590.73,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-133",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 506.34,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-134",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 393.82,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-135",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 348.81,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-136",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 861.36,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-137",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 753.69,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-138",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 646.02,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-139",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 502.46,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-140",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 445.04,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-141",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 605.28,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-142",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 529.62,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-143",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 453.96,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-144",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 353.08,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-145",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 312.73,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-146",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 570.36,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-147",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 499.06,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-148",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 427.77,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-149",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 332.71,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-150",
+    "supplier_id": "sup-orbit-systems",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 294.69,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-151",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1200.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-152",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 1050.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-153",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 900.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-154",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 700.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-155",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 620.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-156",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 696.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-157",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 609.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-158",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 522.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-159",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 406.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-160",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 359.6,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-161",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 888.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-162",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 777.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-163",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 666.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-164",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 518.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-165",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 458.8,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-166",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 624.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-167",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 546.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-168",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 468.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-169",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 364.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-170",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 322.4,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-171",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 588.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-172",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 514.5,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-173",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 441.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-174",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 343.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-175",
+    "supplier_id": "sup-vertex-consulting",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 303.8,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-176",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1236.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-177",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 1081.5,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-178",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 927.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-179",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 721.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-180",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 638.6,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-181",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 716.88,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-182",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 627.27,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-183",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 537.66,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-184",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 418.18,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-185",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 370.39,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-186",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 914.64,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-187",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 800.31,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-188",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 685.98,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-189",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 533.54,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-190",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 472.56,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-191",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 642.72,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-192",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 562.38,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-193",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 482.04,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-194",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 374.92,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-195",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 332.07,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-196",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 605.64,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-197",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 529.94,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-198",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 454.23,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-199",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 353.29,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-200",
+    "supplier_id": "sup-sunline-digital",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 312.91,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-201",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1272.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-202",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 1113.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-203",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 954.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-204",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 742.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-205",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 657.2,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-206",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 737.76,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-207",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 645.54,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-208",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 553.32,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-209",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 430.36,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-210",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 381.18,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-211",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 941.28,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-212",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 823.62,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-213",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 705.96,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-214",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 549.08,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-215",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 486.33,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-216",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 661.44,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-217",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 578.76,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-218",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 496.08,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-219",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 385.84,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-220",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 341.74,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-221",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 623.28,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-222",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 545.37,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-223",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 467.46,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-224",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 363.58,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-225",
+    "supplier_id": "sup-clearpath-it",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 322.03,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-226",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1128.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-227",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 987.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-228",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 846.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-229",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 658.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-230",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 582.8,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-231",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 654.24,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-232",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 572.46,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-233",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 490.68,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-234",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 381.64,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-235",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 338.02,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-236",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 834.72,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-237",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 730.38,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-238",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 626.04,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-239",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 486.92,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-240",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 431.27,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-241",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 586.56,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-242",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 513.24,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-243",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 439.92,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-244",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 342.16,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-245",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 303.06,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-246",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 552.72,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-247",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 483.63,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-248",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 414.54,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-249",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 322.42,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-250",
+    "supplier_id": "sup-aurora-works",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 285.57,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-251",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1164.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-252",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 1018.5,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-253",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 873.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-254",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 679.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-255",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 601.4,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-256",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 675.12,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-257",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 590.73,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-258",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 506.34,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-259",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 393.82,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-260",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 348.81,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-261",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 861.36,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-262",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 753.69,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-263",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 646.02,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-264",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 502.46,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-265",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 445.04,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-266",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 605.28,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-267",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 529.62,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-268",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 453.96,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-269",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 353.08,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-270",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 312.73,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-271",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 570.36,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-272",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 499.06,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-273",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 427.77,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-274",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 332.71,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-275",
+    "supplier_id": "sup-polaris-labs",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 294.69,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-276",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1200.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-277",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 1050.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-278",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 900.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-279",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 700.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-280",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 620.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-281",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 696.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-282",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 609.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-283",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 522.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-284",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 406.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-285",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 359.6,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-286",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 888.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-287",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 777.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-288",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 666.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-289",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 518.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-290",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 458.8,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-291",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 624.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-292",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 546.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-293",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 468.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-294",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 364.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-295",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 322.4,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-296",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 588.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-297",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 514.5,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-298",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 441.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-299",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 343.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-300",
+    "supplier_id": "sup-horizon-ops",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 303.8,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-301",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1236.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-302",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 1081.5,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-303",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 927.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-304",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 721.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-305",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 638.6,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-306",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 716.88,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-307",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 627.27,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-308",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 537.66,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-309",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 418.18,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-310",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 370.39,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-311",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 914.64,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-312",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 800.31,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-313",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 685.98,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-314",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 533.54,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-315",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 472.56,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-316",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 642.72,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-317",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 562.38,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-318",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 482.04,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-319",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 374.92,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-320",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 332.07,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-321",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 605.64,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-322",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 529.94,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-323",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 454.23,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-324",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 353.29,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-325",
+    "supplier_id": "sup-mapleleaf-digital",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 312.91,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-326",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1272.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-327",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 1113.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-328",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 954.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-329",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 742.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-330",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 657.2,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-331",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 737.76,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-332",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 645.54,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-333",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 553.32,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-334",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 430.36,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-335",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 381.18,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-336",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 941.28,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-337",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 823.62,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-338",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 705.96,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-339",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 549.08,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-340",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 486.33,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-341",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 661.44,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-342",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 578.76,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-343",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 496.08,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-344",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 385.84,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-345",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 341.74,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-346",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 623.28,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-347",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 545.37,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-348",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 467.46,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-349",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 363.58,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-350",
+    "supplier_id": "sup-riverstone-tech",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 322.03,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-351",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1128.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-352",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 987.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-353",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 846.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-354",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 658.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-355",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 582.8,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-356",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 654.24,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-357",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 572.46,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-358",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 490.68,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-359",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 381.64,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-360",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 338.02,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-361",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 834.72,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-362",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 730.38,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-363",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 626.04,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-364",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 486.92,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-365",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 431.27,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-366",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 586.56,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-367",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 513.24,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-368",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 439.92,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-369",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 342.16,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-370",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 303.06,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-371",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 552.72,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-372",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 483.63,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-373",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 414.54,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-374",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 322.42,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-375",
+    "supplier_id": "sup-nimbus-partners",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 285.57,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-376",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1164.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-377",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 1018.5,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-378",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 873.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-379",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 679.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-380",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 601.4,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-381",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 675.12,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-382",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 590.73,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-383",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 506.34,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-384",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 393.82,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-385",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 348.81,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-386",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 861.36,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-387",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 753.69,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-388",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 646.02,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-389",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 502.46,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-390",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 445.04,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-391",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 605.28,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-392",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 529.62,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-393",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 453.96,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-394",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 353.08,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-395",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 312.73,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-396",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 570.36,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-397",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 499.06,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-398",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 427.77,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-399",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 332.71,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-400",
+    "supplier_id": "sup-zenbyte-services",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 294.69,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-401",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1200.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-402",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 1050.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-403",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 900.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-404",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 700.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-405",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 620.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-406",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 696.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-407",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 609.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-408",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 522.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-409",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 406.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-410",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 359.6,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-411",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 888.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-412",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 777.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-413",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 666.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-414",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 518.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-415",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 458.8,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-416",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 624.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-417",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 546.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-418",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 468.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-419",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 364.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-420",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 322.4,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-421",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 588.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-422",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 514.5,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-423",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 441.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-424",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 343.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-425",
+    "supplier_id": "sup-silveroak-global",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 303.8,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-426",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1236.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-427",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 1081.5,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-428",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 927.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-429",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 721.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-430",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 638.6,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-431",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 716.88,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-432",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 627.27,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-433",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 537.66,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-434",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 418.18,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-435",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 370.39,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-436",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 914.64,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-437",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 800.31,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-438",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 685.98,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-439",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 533.54,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-440",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 472.56,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-441",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 642.72,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-442",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 562.38,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-443",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 482.04,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-444",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 374.92,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-445",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 332.07,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-446",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 605.64,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-447",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 529.94,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-448",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 454.23,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-449",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 353.29,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-450",
+    "supplier_id": "sup-bridgepoint-logic",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 312.91,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-451",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1272.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-452",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 1113.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-453",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 954.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-454",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 742.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-455",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 657.2,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-456",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 737.76,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-457",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 645.54,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-458",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 553.32,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-459",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 430.36,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-460",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 381.18,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-461",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 941.28,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-462",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 823.62,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-463",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 705.96,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-464",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 549.08,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-465",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 486.33,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-466",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 661.44,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-467",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 578.76,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-468",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 496.08,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-469",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 385.84,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-470",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 341.74,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-471",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 623.28,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-472",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 545.37,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-473",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 467.46,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-474",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 363.58,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-475",
+    "supplier_id": "sup-cedarwave-tech",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 322.03,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-476",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-germany",
+    "role": "Architect",
+    "bill_rate": 1128.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-477",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-germany",
+    "role": "Delivery Lead",
+    "bill_rate": 987.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-478",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-germany",
+    "role": "Developer",
+    "bill_rate": 846.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-479",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-germany",
+    "role": "QA Engineer",
+    "bill_rate": 658.0,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-480",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-germany",
+    "role": "Support Engineer",
+    "bill_rate": 582.8,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-481",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-india",
+    "role": "Architect",
+    "bill_rate": 654.24,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-482",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-india",
+    "role": "Delivery Lead",
+    "bill_rate": 572.46,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-483",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-india",
+    "role": "Developer",
+    "bill_rate": 490.68,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-484",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-india",
+    "role": "QA Engineer",
+    "bill_rate": 381.64,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-485",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-india",
+    "role": "Support Engineer",
+    "bill_rate": 338.02,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-486",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-poland",
+    "role": "Architect",
+    "bill_rate": 834.72,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-487",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-poland",
+    "role": "Delivery Lead",
+    "bill_rate": 730.38,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-488",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-poland",
+    "role": "Developer",
+    "bill_rate": 626.04,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-489",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-poland",
+    "role": "QA Engineer",
+    "bill_rate": 486.92,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-490",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-poland",
+    "role": "Support Engineer",
+    "bill_rate": 431.27,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-491",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-philippines",
+    "role": "Architect",
+    "bill_rate": 586.56,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-492",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-philippines",
+    "role": "Delivery Lead",
+    "bill_rate": 513.24,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-493",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-philippines",
+    "role": "Developer",
+    "bill_rate": 439.92,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-494",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-philippines",
+    "role": "QA Engineer",
+    "bill_rate": 342.16,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-495",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-philippines",
+    "role": "Support Engineer",
+    "bill_rate": 303.06,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-496",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-vietnam",
+    "role": "Architect",
+    "bill_rate": 552.72,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-497",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-vietnam",
+    "role": "Delivery Lead",
+    "bill_rate": 483.63,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-498",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-vietnam",
+    "role": "Developer",
+    "bill_rate": 414.54,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-499",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-vietnam",
+    "role": "QA Engineer",
+    "bill_rate": 322.42,
+    "currency": "EUR"
+  },
+  {
+    "rate_card_id": "rc-500",
+    "supplier_id": "sup-tristar-solutions",
+    "location_id": "loc-vietnam",
+    "role": "Support Engineer",
+    "bill_rate": 285.57,
+    "currency": "EUR"
+  }
+]
