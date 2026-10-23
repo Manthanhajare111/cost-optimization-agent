@@ -4,7 +4,7 @@ from pathlib import Path
 import pytest
 
 from costopt.config import settings
-from scripts.load_synthetic_dataset_to_sqlite import execute_schema, import_tables
+from costopt.storage.sqlite import execute_schema, import_tables
 
 
 @pytest.fixture()

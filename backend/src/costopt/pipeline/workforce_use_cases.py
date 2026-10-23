@@ -793,49 +793,44 @@ def analyze_case(request: CaseRequest) -> CaseAnalysis:
         return analysis
     options = []
     for loc_id in candidate_ids:
-        if request.case_id == "multi_vendor":
-            option = _vendor_option(context, request, locations[loc_id])
-        elif request.case_id == "capacity_gap":
-            option = _capacity_option(context, request, locations[loc_id])
-        else:
-            location_context = load_scenario_context(scenario_id=request.scenario_id, target_location_id=loc_id)
-            location_context.currency = context.currency
-            if selected_uploads or request.source_location_id:
-                location_context.resources = context.resources
-                location_context.contracts = context.contracts
-                location_context.current_location_ids = context.current_location_ids
-            if any(upload.get("data_kind") == "proposal_workbook" for upload in selected_uploads.values()):
-                proposal_rows = next(upload["rows"] for upload in selected_uploads.values()
-                                     if upload.get("data_kind") == "proposal_workbook")
-                proposal_by_resource = {str(row.get("resource_id")): row for row in proposal_rows}
-                target_country = locations[loc_id].country
-                target_cards = []
-                for resource in context.resources:
-                    source_row = proposal_by_resource.get(resource.resource_id, {})
-                    uploaded_rate = _uploaded_rate(uploaded_rates, source_row.get("sow_reference", ""),
-                                                   target_country, source_row.get("level", resource.skill))
-                    if uploaded_rate is not None:
-                        converted_rate = _convert_planning_rate(
-                            uploaded_rate, uploaded_currency or context.currency, context.currency
-                        )
-                        target_cards.append(
-                            RateCard(rate_card_id=f"uploaded-{resource.resource_id}-{loc_id}",
-                                     supplier_id=resource.supplier_id, location_id=loc_id, role=resource.role,
-                                     bill_rate=converted_rate, currency=context.currency)
-                        )
-                location_context.rate_cards = [
-                    RateCard(rate_card_id=f"generated-{resource.resource_id}-{resource.current_location_id}",
-                             supplier_id=resource.supplier_id, location_id=resource.current_location_id, role=resource.role,
-                             bill_rate=resource.current_rate, currency=context.currency)
-                    for resource in context.resources
-                ] + target_cards
-            graph_state = run_workforce_graph(
-                ScenarioAnalysisRequest(scenario_id=request.scenario_id, target_location_id=loc_id),
-                context_override=location_context,
-            )
-            result = graph_state["recommendation"]
-            option = _workforce_option(context, request, locations[loc_id], result)
-            option.agent_stages = [
+        location_context = load_scenario_context(scenario_id=request.scenario_id, target_location_id=loc_id)
+        location_context.currency = context.currency
+        if selected_uploads or request.source_location_id:
+            location_context.resources = context.resources
+            location_context.contracts = context.contracts
+            location_context.current_location_ids = context.current_location_ids
+        if any(upload.get("data_kind") == "proposal_workbook" for upload in selected_uploads.values()):
+            proposal_rows = next(upload["rows"] for upload in selected_uploads.values()
+                                 if upload.get("data_kind") == "proposal_workbook")
+            proposal_by_resource = {str(row.get("resource_id")): row for row in proposal_rows}
+            target_country = locations[loc_id].country
+            target_cards = []
+            for resource in context.resources:
+                source_row = proposal_by_resource.get(resource.resource_id, {})
+                uploaded_rate = _uploaded_rate(uploaded_rates, source_row.get("sow_reference", ""),
+                                               target_country, source_row.get("level", resource.skill))
+                if uploaded_rate is not None:
+                    converted_rate = _convert_planning_rate(
+                        uploaded_rate, uploaded_currency or context.currency, context.currency
+                    )
+                    target_cards.append(
+                        RateCard(rate_card_id=f"uploaded-{resource.resource_id}-{loc_id}",
+                                 supplier_id=resource.supplier_id, location_id=loc_id, role=resource.role,
+                                 bill_rate=converted_rate, currency=context.currency)
+                    )
+            location_context.rate_cards = [
+                RateCard(rate_card_id=f"generated-{resource.resource_id}-{resource.current_location_id}",
+                         supplier_id=resource.supplier_id, location_id=resource.current_location_id, role=resource.role,
+                         bill_rate=resource.current_rate, currency=context.currency)
+                for resource in context.resources
+            ] + target_cards
+        graph_state = run_workforce_graph(
+            ScenarioAnalysisRequest(scenario_id=request.scenario_id, target_location_id=loc_id),
+            context_override=location_context,
+        )
+        result = graph_state["recommendation"]
+        option = _workforce_option(context, request, locations[loc_id], result)
+        option.agent_stages = [
                 {"name": stage.name, "outcome": stage.outcome,
                  "mode": "fallback" if stage.used_fallback else "llm"}
                 for stage in graph_state["stages"]
@@ -1063,103 +1058,6 @@ def _estimate_downtime(moved: list[object]) -> dict[str, object]:
             f"planned as parallel transition effort over approximately {transition_weeks} week(s), so they are not counted as service downtime."
         ),
     }
-
-
-def _vendor_option(context, request, location) -> CaseOption:
-    with get_connection() as connection:
-        suppliers = connection.execute("SELECT supplier_id, name FROM suppliers ORDER BY supplier_id").fetchall()
-        cards = connection.execute("SELECT supplier_id, role, bill_rate, currency FROM rate_cards WHERE location_id = ?", (location.location_id,)).fetchall()
-        portfolio = connection.execute(
-            "SELECT resource_id, supplier_id, current_rate, role FROM resources ORDER BY resource_id"
-        ).fetchall()
-    selected_team = {resource.resource_id: resource for resource in context.resources}
-    relevant = [{"resource_id": row["resource_id"],
-                 "supplier_id": selected_team[row["resource_id"]].supplier_id if row["resource_id"] in selected_team else row["supplier_id"],
-                 "current_rate": selected_team[row["resource_id"]].current_rate if row["resource_id"] in selected_team else row["current_rate"]}
-                for row in portfolio
-                if (selected_team[row["resource_id"]].role if row["resource_id"] in selected_team else row["role"]) == request.role]
-    current_suppliers = {row["supplier_id"] for row in relevant}
-    candidate = []
-    for supplier in suppliers:
-        rate = next((card for card in cards if card["supplier_id"] == supplier["supplier_id"] and card["role"] == request.role and card["currency"] == context.currency), None)
-        if rate and relevant:
-            baseline = sum(row["current_rate"] for row in relevant)
-            saving = max(0, round((baseline - len(relevant) * rate["bill_rate"]) * context.billing_units_per_month, 2))
-            candidate.append((saving, supplier, rate["bill_rate"]))
-    candidate.sort(key=lambda item: item[0], reverse=True)
-    if candidate and candidate[0][0] > 0:
-        saving, supplier, _ = candidate[0]
-        chosen = [candidate[0]]
-        if (request.max_suppliers or 1) >= 2 and len(candidate) >= 2 and len(relevant) >= 2:
-            chosen.append(candidate[1])
-            first_count = (len(relevant) + 1) // 2
-            second_count = len(relevant) - first_count
-            future_rates = first_count * chosen[0][2] + second_count * chosen[1][2]
-            saving = max(0, round((sum(row["current_rate"] for row in relevant) - future_rates)
-                                  * context.billing_units_per_month, 2))
-        names = " and ".join(entry[1]["name"] for entry in chosen)
-        if saving <= 0:
-            return CaseOption(option_id=str(uuid4()), location_id=location.location_id,
-                              location_name=location.country, monthly_savings=0, annual_savings=0,
-                              moved_roles=0, status="blocked",
-                              summary="The requested supplier mix does not reduce the current role cost.",
-                              gaps=["Review the supplier limit or target rate cards."])
-        summary = (f"Screen {names} as consolidation candidates for {len(relevant)} "
-                   f"{request.role} role(s) across {len(current_suppliers)} suppliers; "
-                   "confirm contract transfer, capacity and service quality before any move.")
-        return CaseOption(option_id=str(uuid4()), location_id=location.location_id,
-                          location_name=location.country, supplier_id=supplier["supplier_id"], supplier_name=names,
-                          monthly_savings=saving, annual_savings=round(saving * 12, 2), moved_roles=len(relevant),
-                          status="indicative", summary=summary,
-                          rationale=(f"Compared a portfolio baseline across {len(current_suppliers)} current suppliers "
-                                     f"with {len(candidate)} local target rate cards in {location.country}. "
-                                     "The result is a rate-card opportunity, not a validated transfer plan."),
-                          checks=[f"Compared {len(candidate)} supplier rate cards for {request.role}.",
-                                  f"Current supplier count: {len(current_suppliers)}; screened {len(chosen)} of maximum {request.max_suppliers}."],
-                          gaps=["Rate-card screening assumes one supplier can take every eligible role; capacity is unverified.",
-                                "Supplier capacity, performance and contract transfer rights are not verified."],
-                          next_actions=["Confirm supplier capacity and service performance.",
-                                        "Review transfer rights and obtain procurement approval."])
-    return CaseOption(option_id=str(uuid4()), location_id=location.location_id,
-                      location_name=location.country, monthly_savings=0, annual_savings=0, moved_roles=0,
-                      status="blocked", summary="No lower-cost supplier rate card covers the selected role.",
-                      gaps=["A comparable supplier rate card or matching role is missing."])
-
-
-def _capacity_option(context, request, location) -> CaseOption:
-    gap = max(0, (request.demand_roles or 0) - (request.available_roles or 0))
-    with get_connection() as connection:
-        cards = connection.execute("SELECT supplier_id, bill_rate, currency FROM rate_cards WHERE location_id = ? AND role = ? ORDER BY bill_rate", (location.location_id, request.role)).fetchall()
-    valid = [card for card in cards if card["currency"] == context.currency]
-    current_rates = [r.current_rate for r in context.resources if r.role == request.role]
-    if not gap or not valid or not current_rates:
-        return CaseOption(option_id=str(uuid4()), location_id=location.location_id,
-                          location_name=location.country, monthly_savings=0, annual_savings=0, moved_roles=0,
-                          status="blocked", summary="No forecast gap or comparable rate card is available.",
-                          gaps=["Check demand, current availability, team role and target rate cards."])
-    cheapest = valid[0]
-    reference_rate = sum(current_rates) / len(current_rates)
-    saving = max(0, round((reference_rate - cheapest["bill_rate"]) * gap * context.billing_units_per_month, 2))
-    if saving <= 0:
-        return CaseOption(option_id=str(uuid4()), location_id=location.location_id,
-                          location_name=location.country, monthly_savings=0, annual_savings=0,
-                          moved_roles=0, status="blocked",
-                          summary="The comparable rate card does not reduce the current role cost.",
-                          gaps=["Review the target rate card or change the planning assumptions."])
-    return CaseOption(option_id=str(uuid4()), location_id=location.location_id,
-                      location_name=location.country, supplier_id=cheapest["supplier_id"],
-                      monthly_savings=saving, annual_savings=round(saving * 12, 2),
-                      period_savings=round(saving * (request.horizon_months or 1), 2),
-                      period_label=f"over {request.horizon_months} months", moved_roles=gap,
-                      status="indicative", summary=f"Plan {gap} additional {request.role} role(s) over {request.horizon_months} month(s); verify supplier availability before sourcing.",
-                      rationale=(f"A {gap}-role forecast gap was calculated from the entered demand and availability. "
-                                 f"The lowest comparable {request.role} rate card in {location.country} was compared with "
-                                 "the team's current average rate. This is an indicative staffing scenario."),
-                      checks=[f"Demand {request.demand_roles} minus available {request.available_roles} = {gap} role gap.",
-                              "Comparison uses local role rates and current billing units."],
-                      gaps=["Future project demand, supplier capacity and premium-hiring costs are user assumptions, not connected forecasts."],
-                      next_actions=["Validate the demand forecast with the project owner.",
-                                    "Confirm supplier capacity and onboarding lead time."])
 
 
 def _ensure_tables(connection) -> None:
